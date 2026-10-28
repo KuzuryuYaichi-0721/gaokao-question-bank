@@ -1,0 +1,29 @@
+{
+  "source": {
+    "site": "stzy",
+    "base_url": "https://stzy.com",
+    "token_env": "STZY_TOKEN",
+    "token_header": "Authorization",
+    "token_prefix": "Bearer ",
+    "search_path": "",
+    "detail_path": "",
+    "request_delay_sec": 1.0,
+    "timeout_sec": 30
+  },
+  "database": "data/questions.db",
+  "raw_dir": "raw",
+  "export_dir": "data/export",
+  "scope": {
+    "years": [2016, 2025],
+    "subjects": ["语文", "数学", "英语", "物理", "化学", "生物", "政治", "历史", "地理"],
+    "regions": ["北京", "河南", "山东", "广东"],
+    "include_province_mock": true,
+    "include_city_mock": true
+  },
+  "classify": {
+    "use_llm_fallback": true,
+    "deepseek_base_url": "https://api.deepseek.com",
+    "deepseek_model": "deepseek-chat",
+    "api_key_env": "DEEPSEEK_API_KEY"
+  }
+}
