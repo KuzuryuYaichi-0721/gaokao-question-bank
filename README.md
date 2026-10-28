@@ -26,7 +26,11 @@ python -m bank.cli init
 ```powershell
 python -m bank.cli import-json .\data\sample.json
 python -m bank.cli search --subject 数学 --region 河南 --type 导数 --limit 20
-python -m bank.cli ai-search "河南新高考数学导数题 第1题"`npython -m bank.cli import-bench --raw-dir raw/gaokao-bench`npython -m bank.cli har-import inbox\stzy.har --subject 数学 --region 河南 --year 2024 --exam-era new
+python -m bank.cli ai-search "河南新高考数学导数题 第1题"
+python -m bank.cli crawl-stzy --subject 数学 --year 2025 --province 河南 --pages 1
+python -m bank.cli answers-stzy --limit 10
+python -m bank.cli import-bench --raw-dir raw/gaokao-bench
+python -m bank.cli har-import inbox\stzy.har --subject 数学 --region 河南 --year 2024 --exam-era new
 python -m bank.cli stats
 python -m bank.cli export-app --out ..\GaokaoCoach\data\questions.json
 ```
