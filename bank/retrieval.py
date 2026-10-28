@@ -35,7 +35,7 @@ def search(db_path: str, filters: dict[str, Any], limit: int = 50) -> list[dict[
             where += " AND q.id IN (SELECT question_id FROM questions_fts WHERE questions_fts MATCH ?)"
             args.append(keyword)
         sql = f"SELECT q.*, p.title AS paper_title FROM questions q LEFT JOIN papers p ON p.paper_key=q.paper_key WHERE {where} ORDER BY q.year DESC, q.region, q.paper_key, q.q_no LIMIT ?"
-        args.append(max(1, min(500, int(limit))))
+        args.append(max(1, min(100000, int(limit))))
         rows = conn.execute(sql, args).fetchall()
         out = []
         for r in rows:

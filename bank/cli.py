@@ -6,6 +6,7 @@ from pathlib import Path
 from .classify import parse_query
 from .har import load_har, write_responses
 from .importer import import_har
+from .gaokao_bench import import_bench
 from .taxonomy import seed as seed_taxonomy
 from .db import init_db, connect, import_questions
 from .retrieval import search, stats
@@ -30,6 +31,7 @@ def main(argv=None):
     ai = sub.add_parser("ai-search"); ai.add_argument("query"); ai.add_argument("--limit", type=int, default=50)
     sub.add_parser("stats")
     sub.add_parser("seed-taxonomy")
+    ib = sub.add_parser("import-bench"); ib.add_argument("--raw-dir", default="raw/gaokao-bench"); ib.add_argument("--limit", type=int, default=0)
     hi = sub.add_parser("har-inspect"); hi.add_argument("path"); hi.add_argument("--out", default="raw/har")
     he = sub.add_parser("har-export"); he.add_argument("path"); he.add_argument("--out", default="raw/har")
     hi2 = sub.add_parser("har-import"); hi2.add_argument("path"); hi2.add_argument("--subject", default=""); hi2.add_argument("--region", default=""); hi2.add_argument("--year", type=int, default=0); hi2.add_argument("--exam-era", default="unknown")
@@ -76,6 +78,13 @@ def main(argv=None):
         try:
             n = import_har(Path(args.path), conn, {"subject": args.subject, "region": args.region, "year": args.year, "exam_era": args.exam_era})
             print(n)
+        finally:
+            conn.close()
+        return 0
+    if args.cmd == "import-bench":
+        conn = connect(db)
+        try:
+            print(import_bench(conn, ROOT / args.raw_dir, args.limit))
         finally:
             conn.close()
         return 0

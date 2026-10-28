@@ -26,7 +26,7 @@ python -m bank.cli init
 ```powershell
 python -m bank.cli import-json .\data\sample.json
 python -m bank.cli search --subject 数学 --region 河南 --type 导数 --limit 20
-python -m bank.cli ai-search "河南新高考数学导数题 第1题"`npython -m bank.cli har-import inbox\stzy.har --subject 数学 --region 河南 --year 2024 --exam-era new
+python -m bank.cli ai-search "河南新高考数学导数题 第1题"`npython -m bank.cli import-bench --raw-dir raw/gaokao-bench`npython -m bank.cli har-import inbox\stzy.har --subject 数学 --region 河南 --year 2024 --exam-era new
 python -m bank.cli stats
 python -m bank.cli export-app --out ..\GaokaoCoach\data\questions.json
 ```
@@ -39,7 +39,7 @@ python -m bank.cli export-app --out ..\GaokaoCoach\data\questions.json
 - `questions_fts`：全文检索
 - `crawl_jobs`：抓取任务与失败原因
 
-## stzy 接入
+## 内置真实题源\n\n`import-bench` 从 GAOKAO-Bench / GAOKAO-Bench-Updates 拉取 2016—2024 九科真题（Apache-2.0）并归一化；原始 JSON 在 `raw/`，不入 Git。\n\n## stzy 接入
 
 `bank/stzy.py` 是 Bearer token 客户端。`config.local.json` 的 `source.search_path` / `detail_path` 需要按登录后的实际接口填写；没有接口文档时先不要盲目抓取。`bank/cli.py` 不包含绕过登录、验证码或付费墙的代码。
 
