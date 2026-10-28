@@ -30,7 +30,7 @@ def search(db_path: str, filters: dict[str, Any], limit: int = 50) -> list[dict[
     conn = connect(db_path)
     try:
         where, args = _where(filters)
-        keyword = str(filters.get("keyword", "")).strip()
+        keyword = str(filters.get("keyword") or "").strip()
         if keyword:
             where += " AND q.id IN (SELECT question_id FROM questions_fts WHERE questions_fts MATCH ?)"
             args.append(keyword)
