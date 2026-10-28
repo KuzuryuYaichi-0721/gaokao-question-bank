@@ -1,4 +1,4 @@
-# Gaokao Question Bank
+﻿# Gaokao Question Bank
 
 独立、私有、闭源的高考题库数据管线与检索工具，供 GaokaoCoach 调用。
 
@@ -26,7 +26,7 @@ python -m bank.cli init
 ```powershell
 python -m bank.cli import-json .\data\sample.json
 python -m bank.cli search --subject 数学 --region 河南 --type 导数 --limit 20
-python -m bank.cli ai-search "河南新高考数学导数题 第1题"
+python -m bank.cli ai-search "河南新高考数学导数题 第1题"`npython -m bank.cli har-import inbox\stzy.har --subject 数学 --region 河南 --year 2024 --exam-era new
 python -m bank.cli stats
 python -m bank.cli export-app --out ..\GaokaoCoach\data\questions.json
 ```
