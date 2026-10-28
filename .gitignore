@@ -6,3 +6,7 @@ raw/
 .venv/
 __pycache__/
 *.pyc
+
+inbox/*.har
+raw/*
+
