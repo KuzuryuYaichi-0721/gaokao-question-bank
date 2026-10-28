@@ -5,6 +5,7 @@ from pathlib import Path
 
 from .classify import parse_query
 from .har import load_har, write_responses
+from .taxonomy import seed as seed_taxonomy
 from .db import init_db, connect, import_questions
 from .retrieval import search, stats
 from .settings import load_config
@@ -27,6 +28,7 @@ def main(argv=None):
     sr = sub.add_parser("search"); sr.add_argument("--subject"); sr.add_argument("--region"); sr.add_argument("--exam-era"); sr.add_argument("--year-from", type=int); sr.add_argument("--year-to", type=int); sr.add_argument("--type"); sr.add_argument("--q-no", type=int); sr.add_argument("--keyword"); sr.add_argument("--limit", type=int, default=50)
     ai = sub.add_parser("ai-search"); ai.add_argument("query"); ai.add_argument("--limit", type=int, default=50)
     sub.add_parser("stats")
+    sub.add_parser("seed-taxonomy")
     hi = sub.add_parser("har-inspect"); hi.add_argument("path"); hi.add_argument("--out", default="raw/har")
     he = sub.add_parser("har-export"); he.add_argument("path"); he.add_argument("--out", default="raw/har")
     ex = sub.add_parser("export-app"); ex.add_argument("--out", default="data/export/questions.json")
@@ -58,6 +60,14 @@ def main(argv=None):
     if args.cmd == "har-export":
         n = write_responses(Path(args.path), Path(args.out))
         print(f"wrote {n} responses to {args.out}")
+        return 0
+    if args.cmd == "seed-taxonomy":
+        conn = connect(db)
+        try:
+            n = seed_taxonomy(conn, cfg["scope"]["subjects"], cfg["scope"]["regions"])
+            conn.commit(); print(n)
+        finally:
+            conn.close()
         return 0
     if args.cmd == "stats":
         print(json.dumps(stats(str(db)), ensure_ascii=False, indent=2)); return 0
