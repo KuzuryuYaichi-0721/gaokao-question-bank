@@ -4,6 +4,7 @@ import argparse, json, sys
 from pathlib import Path
 
 from .classify import parse_query
+from .har import load_har, write_responses
 from .db import init_db, connect, import_questions
 from .retrieval import search, stats
 from .settings import load_config
@@ -26,6 +27,8 @@ def main(argv=None):
     sr = sub.add_parser("search"); sr.add_argument("--subject"); sr.add_argument("--region"); sr.add_argument("--exam-era"); sr.add_argument("--year-from", type=int); sr.add_argument("--year-to", type=int); sr.add_argument("--type"); sr.add_argument("--q-no", type=int); sr.add_argument("--keyword"); sr.add_argument("--limit", type=int, default=50)
     ai = sub.add_parser("ai-search"); ai.add_argument("query"); ai.add_argument("--limit", type=int, default=50)
     sub.add_parser("stats")
+    hi = sub.add_parser("har-inspect"); hi.add_argument("path"); hi.add_argument("--out", default="raw/har")
+    he = sub.add_parser("har-export"); he.add_argument("path"); he.add_argument("--out", default="raw/har")
     ex = sub.add_parser("export-app"); ex.add_argument("--out", default="data/export/questions.json")
     args = ap.parse_args(argv)
     cfg_path = Path(args.config)
@@ -46,6 +49,16 @@ def main(argv=None):
     if args.cmd == "ai-search":
         f = parse_query(args.query, cfg)
         print(json.dumps({"filters": f, "results": search(str(db), f, args.limit)}, ensure_ascii=False, indent=2)); return 0
+    if args.cmd == "har-inspect":
+        rows = load_har(Path(args.path))
+        for r in rows:
+            print(json.dumps({k: r[k] for k in ("method","url","path","query","status","mime")}, ensure_ascii=False))
+        print(f"# {len(rows)} stzy entries")
+        return 0
+    if args.cmd == "har-export":
+        n = write_responses(Path(args.path), Path(args.out))
+        print(f"wrote {n} responses to {args.out}")
+        return 0
     if args.cmd == "stats":
         print(json.dumps(stats(str(db)), ensure_ascii=False, indent=2)); return 0
     if args.cmd == "export-app":
