@@ -5,6 +5,7 @@ from pathlib import Path
 
 from .classify import parse_query
 from .har import load_har, write_responses
+from .importer import import_har
 from .taxonomy import seed as seed_taxonomy
 from .db import init_db, connect, import_questions
 from .retrieval import search, stats
@@ -31,6 +32,7 @@ def main(argv=None):
     sub.add_parser("seed-taxonomy")
     hi = sub.add_parser("har-inspect"); hi.add_argument("path"); hi.add_argument("--out", default="raw/har")
     he = sub.add_parser("har-export"); he.add_argument("path"); he.add_argument("--out", default="raw/har")
+    hi2 = sub.add_parser("har-import"); hi2.add_argument("path"); hi2.add_argument("--subject", default=""); hi2.add_argument("--region", default=""); hi2.add_argument("--year", type=int, default=0); hi2.add_argument("--exam-era", default="unknown")
     ex = sub.add_parser("export-app"); ex.add_argument("--out", default="data/export/questions.json")
     args = ap.parse_args(argv)
     cfg_path = Path(args.config)
@@ -66,6 +68,14 @@ def main(argv=None):
         try:
             n = seed_taxonomy(conn, cfg["scope"]["subjects"], cfg["scope"]["regions"])
             conn.commit(); print(n)
+        finally:
+            conn.close()
+        return 0
+    if args.cmd == "har-import":
+        conn = connect(db)
+        try:
+            n = import_har(Path(args.path), conn, {"subject": args.subject, "region": args.region, "year": args.year, "exam_era": args.exam_era})
+            print(n)
         finally:
             conn.close()
         return 0
