@@ -22,9 +22,25 @@ REGIONS = {"全国": "-1", "北京": "110000", "天津": "120000", "河北": "13
 def decode(data: Any) -> Any:
     if isinstance(data, dict): return data
     if not isinstance(data, str): raise ValueError("unexpected payload")
+    # Some endpoints already return a JSON string; most return base64 AES-CBC.
+    try:
+        return json.loads(data)
+    except Exception:
+        pass
     raw = base64.b64decode(data)
     dec = Cipher(algorithms.AES(WIRE_KEY), modes.CBC(WIRE_KEY)).decryptor()
-    return json.loads((dec.update(raw) + dec.finalize()).rstrip(b"\x00").decode("utf-8"))
+    plain = dec.update(raw) + dec.finalize()
+    # PKCS#7 padding, then any NUL padding.
+    if plain:
+        pad = plain[-1]
+        if 1 <= pad <= 16 and plain.endswith(bytes([pad]) * pad):
+            plain = plain[:-pad]
+    text = plain.decode("utf-8", errors="ignore").rstrip("\x00").strip()
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        # Tolerate a valid object followed by stray bytes.
+        return json.JSONDecoder().raw_decode(text)[0]
 
 
 class StzyApi:
