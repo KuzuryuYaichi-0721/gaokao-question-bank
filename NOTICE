@@ -1,0 +1,12 @@
+Gaokao Question Bank
+Copyright 2026 KuzuryuYaichi-0721 and contributors
+
+This product includes data derived from OpenLMLab/GAOKAO-Bench:
+https://github.com/OpenLMLab/GAOKAO-Bench
+
+GAOKAO-Bench is licensed under the Apache License, Version 2.0.
+The derived dataset data/open/gaokao-bench-2016-2022.json is provided under
+Apache-2.0 with attribution. OpenLMLab does not endorse this project.
+
+No GAOKAO-Bench-Updates 2023-2024 data, Xiaohongshu content, scanned images,
+or synthetic demo questions are included in the open-data release.
