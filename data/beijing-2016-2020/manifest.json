@@ -1,54 +1,54 @@
 {
   "name": "beijing-2016-2020",
   "description": "北京 2016–2020 高考、一模、二模题目文本（第三方公开来源汇编）",
-  "generated_at": "2026-10-31T18:21:34+00:00",
+  "generated_at": "2026-10-31T18:24:31+00:00",
   "license": "unknown",
-  "question_count": 10125,
+  "question_count": 10726,
   "paper_count": 770,
   "by_year": {
-    "2016": 1726,
-    "2017": 1189,
-    "2018": 1925,
-    "2019": 2258,
-    "2020": 3027
+    "2016": 1744,
+    "2017": 1579,
+    "2018": 1957,
+    "2019": 2295,
+    "2020": 3151
   },
   "by_exam_type": {
-    "一模": 4977,
-    "二模": 4295,
-    "高考": 853
+    "一模": 5365,
+    "二模": 4485,
+    "高考": 876
   },
   "by_subject": {
-    "英语": 2993,
-    "语文": 1546,
-    "数学（理）": 937,
-    "数学（文）": 888,
-    "物理": 777,
-    "历史": 608,
-    "地理": 563,
-    "化学": 465,
-    "政治": 402,
-    "数学": 349,
-    "生物": 275,
-    "文综": 239,
-    "理综": 83
+    "英语": 3139,
+    "语文": 1607,
+    "数学（理）": 989,
+    "数学（文）": 890,
+    "物理": 823,
+    "历史": 687,
+    "地理": 578,
+    "化学": 481,
+    "政治": 447,
+    "数学": 350,
+    "文综": 322,
+    "生物": 294,
+    "理综": 119
   },
   "by_extract_method": {
-    "text": 9446,
-    "ocr": 679
+    "text": 9670,
+    "ocr": 1056
   },
   "quality_counts": {
-    "text": 8476,
-    "text-garbled": 970,
-    "ocr": 679
+    "text": 8692,
+    "text-garbled": 978,
+    "ocr": 1056
   },
-  "needs_image_count": 1603,
-  "missing_source_url_count": 167,
-  "incomplete_option_count": 225,
+  "needs_image_count": 1689,
+  "missing_source_url_count": 187,
+  "incomplete_option_count": 261,
   "paper_status": {
-    "ok": 595,
+    "ok": 609,
     "answer_only": 2,
     "zero_questions": 16,
-    "no_text": 157
+    "no_text": 143
   },
   "coverage": {
     "slots": 1384,
@@ -57,18 +57,18 @@
     "missing": 614
   },
   "dropped": {
-    "junk": 262,
-    "duplicate": 109
+    "junk": 283,
+    "duplicate": 132
   },
   "files": {
     "questions.json": {
-      "sha256": "c1ce163dffe38562d7640583ea5f841db41a9d6042c5d090e1845b55ee10d305",
-      "bytes": 16800563,
-      "sha256_all": "374de3bef977881ad4fe5fe856234d722e0475eb9248d8d2a7085311c7ba7612"
+      "sha256": "3334f72a27806c158d078bb9fbcc686732dd0a52f63a20ae31955da75f025367",
+      "bytes": 17776971,
+      "sha256_all": "ca3feec18dc8902a63059c6106c83ddf50727b8276ed8d7a55b108fbaea2b2ce"
     },
     "papers.json": {
-      "sha256": "1b436c2a74500a1da0988ff80391ebecd2b2c96dd2595694587c8c97a168eea0",
-      "bytes": 416949
+      "sha256": "a1f8b9f79a12e84fd61eee2c0a470e145694667194a50581c88f8946a3a5d33d",
+      "bytes": 416900
     },
     "coverage.json": {
       "sha256": "534f677ca3b25d9e53b79bf9ad84db53d66f6507acacdbfe4d780abcb68231d5",
