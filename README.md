@@ -68,3 +68,8 @@ python -m bank.cli export-app --out ..\GaokaoCoach\data\questions.json
 ## Open-source status
 
 The repository is public. Code contributions are accepted under MIT; data contributions must state their source and license. Do not open a pull request containing copyrighted scans, third-party notes, API tokens, or user data.
+
+## Contributors
+
+- KuzuryuYaichi-0721 — maintainer
+- pellx — contributor
