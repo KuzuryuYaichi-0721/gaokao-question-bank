@@ -24,7 +24,7 @@
   },
   "license": "Apache-2.0",
   "upstream": "https://github.com/OpenLMLab/GAOKAO-Bench",
-  "sha256": "e26492ded66f00cf5047389a7a1c5e6719f1e81f761ff4c7e848acdf09352039",
+  "sha256": "2fcbad264d7a091051a0bf8a0b683b04678537be4e59d894950d0f80abdb3119",
   "excluded": [
     "GAOKAO-Bench-Updates 2023-2024: upstream has no declared license",
     "Xiaohongshu 2025 items: third-party copyright, not redistributable",
