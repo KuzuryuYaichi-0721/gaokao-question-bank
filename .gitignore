@@ -1,12 +1,60 @@
+# ---- 本地配置与密钥 ----
 config.local.json
-data/*.db
-data/*.db-*
+*.local.json
+.env
+.env.*
+!.env.example
+*.har
+
+# ---- 本地数据库与导出 ----
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
 data/export/
+
+# ---- 采集工作区与下载缓存 ----
+temp/
+.tmp/
+_tmp/
+.scratch/
+inbox/*
+!inbox/README.md
 raw/
-.venv/
+
+# ---- Python ----
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+*.egg-info/
 
-inbox/*.har
-raw/*
+# ---- Node / 前端 ----
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
 
+# ---- 日志与临时文件 ----
+*.log
+*.tmp
+*.temp
+/tmp_*
+*.bak
+*~
+
+# ---- 操作系统与编辑器 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.idea/
