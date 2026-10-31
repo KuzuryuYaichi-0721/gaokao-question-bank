@@ -1,33 +1,50 @@
-﻿# Gaokao Question Bank
+# Gaokao Question Bank
 
-独立、私有、闭源的高考题库数据管线与检索工具，供 GaokaoCoach 调用。
+Open-source question-bank data pipeline and retrieval tools for GaokaoCoach.
 
-## 边界
+- Code: MIT License (`LICENSE`)
+- Open dataset: Apache-2.0 (`LICENSE-APACHE-2.0`, `DATA_LICENSE.md`)
+- No API token is committed. `STZY_TOKEN` is read from the local environment only.
 
-- 私有仓库，仅个人学习使用，不再分发。
-- `STZY_TOKEN` 只放本机环境变量，不写入仓库。
-- 原文件默认放本地/私有 Release，不塞进 Git。
-- 不生成题目、不伪造答案；检索结果必须带来源。
+## What is included
 
-## 快速开始
+`data/open/gaokao-bench-2016-2022.json` contains **2,996** nine-subject Gaokao questions from **2016–2022**, normalized to the GaokaoCoach question schema.
+
+The questions are derived from [OpenLMLab/GAOKAO-Bench](https://github.com/OpenLMLab/GAOKAO-Bench), which is licensed under Apache-2.0. See `NOTICE` and `THIRD_PARTY_NOTICES.md`.
+
+## What is not included
+
+- GAOKAO-Bench-Updates 2023–2024: the upstream repository has **no declared license**, so these rows are not redistributed here.
+- Xiaohongshu 2025 items: third-party content with no redistribution license.
+- GaokaoCoach synthetic demo seed: sample questions, not real exam questions.
+- Scanned images, PDFs, audio, local SQLite databases, and user progress.
+
+The local GaokaoCoach installation can still contain those items for private study; they are not part of this open-data release.
+
+## Quick start
 
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 Copy-Item config.example.json config.local.json
-# 编辑 config.local.json：填 stzy 的搜索/详情接口路径；token 放环境变量
+# Only needed for paid/private source access; never commit the token.
 $env:STZY_TOKEN = "..."
 python -m bank.cli init
+python -m bank.cli import-json .\data\open\gaokao-bench-2016-2022.json
+python -m bank.cli stats
 ```
 
-## 命令
+## Commands
 
 ```powershell
-python -m bank.cli import-json .\data\sample.json
+python -m bank.cli import-json .\data\open\gaokao-bench-2016-2022.json
 python -m bank.cli search --subject 数学 --region 河南 --type 导数 --limit 20
 python -m bank.cli ai-search "河南新高考数学导数题 第1题"
 python -m bank.cli crawl-stzy --subject 数学 --year 2025 --province 河南 --pages 1
+python -m bank.cli index-search --subject 数学 --year 2024 --province 河南 --type 导数 --limit 10
+python -m bank.cli hydrate stzy-481099108393984000
+python -m bank.cli hydrate stzy-481099108393984000 --answer
 python -m bank.cli answers-stzy --limit 10
 python -m bank.cli import-bench --raw-dir raw/gaokao-bench
 python -m bank.cli har-import inbox\stzy.har --subject 数学 --region 河南 --year 2024 --exam-era new
@@ -35,25 +52,19 @@ python -m bank.cli stats
 python -m bank.cli export-app --out ..\GaokaoCoach\data\questions.json
 ```
 
-## 数据模型
+## Data model
 
-- `papers`：套卷、地区、年份、新高考前/后、考试类型、来源
-- `questions`：题号、题型、题干、选项、答案、解析、来源
-- `question_types`：按学科/地区/新高考时代拆分的题型目录
-- `questions_fts`：全文检索
-- `crawl_jobs`：抓取任务与失败原因
+- `papers`: paper, region, year, exam era, exam type, source
+- `questions`: number, type, stem, options, answer, explanation, source
+- `question_index`: search-result summary; full question is fetched only on explicit hydrate
+- `question_types`: per subject/region/era taxonomy
+- `questions_fts`: full-text search
+- `crawl_jobs`: crawl jobs and failure reasons
 
-## 内置真实题源\n\n`import-bench` 从 GAOKAO-Bench / GAOKAO-Bench-Updates 拉取 2016—2024 九科真题（Apache-2.0）并归一化；原始 JSON 在 `raw/`，不入 Git。\n\n## stzy 接入
+## Source boundary
 
-`bank/stzy.py` 是 Bearer token 客户端。`config.local.json` 的 `source.search_path` / `detail_path` 需要按登录后的实际接口填写；没有接口文档时先不要盲目抓取。`bank/cli.py` 不包含绕过登录、验证码或付费墙的代码。
+`bank/stzy.py` is a Bearer-token client. The search/detail paths in `config.local.json` must be filled in from the user's own account. The project does not bypass login, captcha, or paywalls.
 
-## 题型
+## Open-source status
 
-- 源站元数据优先
-- 本地关键词规则补充
-- 不确定项交给 DeepSeek 分类，并记录 `method/confidence`
-- 不同地区独立目录：`subject + region + exam_era`
-
-## 检索
-
-支持学科、地区、新高考前/后、年份、题型、题号、关键词/全文，返回来源 URL 和导入状态。
+The repository is public. Code contributions are accepted under MIT; data contributions must state their source and license. Do not open a pull request containing copyrighted scans, third-party notes, API tokens, or user data.
