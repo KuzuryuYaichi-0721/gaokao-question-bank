@@ -1,0 +1,84 @@
+{
+  "name": "beijing-2016-2020",
+  "description": "北京 2016–2020 高考、一模、二模题目文本（第三方公开来源汇编）",
+  "generated_at": "2026-10-31T19:59:40+00:00",
+  "license": "unknown",
+  "question_count": 13077,
+  "paper_count": 770,
+  "by_year": {
+    "2016": 1744,
+    "2017": 2119,
+    "2018": 2778,
+    "2019": 3067,
+    "2020": 3369
+  },
+  "by_exam_type": {
+    "一模": 6430,
+    "二模": 5749,
+    "高考": 898
+  },
+  "by_subject": {
+    "英语": 3670,
+    "语文": 1817,
+    "数学（理）": 1206,
+    "文综": 1065,
+    "数学（文）": 1050,
+    "物理": 835,
+    "历史": 764,
+    "地理": 633,
+    "化学": 507,
+    "政治": 489,
+    "数学": 386,
+    "理综": 351,
+    "生物": 304
+  },
+  "by_extract_method": {
+    "text": 9670,
+    "ocr": 3407
+  },
+  "quality_counts": {
+    "text": 8692,
+    "text-garbled": 978,
+    "ocr": 3407
+  },
+  "needs_image_count": 2167,
+  "missing_source_url_count": 269,
+  "incomplete_option_count": 437,
+  "paper_status": {
+    "ok": 732,
+    "answer_only": 2,
+    "zero_questions": 17,
+    "no_text": 19
+  },
+  "coverage": {
+    "slots": 1384,
+    "collected": 768,
+    "partial": 2,
+    "missing": 614
+  },
+  "dropped": {
+    "junk": 391,
+    "duplicate": 176
+  },
+  "files": {
+    "questions.json": {
+      "sha256": "930b8270ba0a5fb4666ead0c65a2d11f5a6411f6812fef068c1a97f34ec60c53",
+      "bytes": 21906442,
+      "sha256_all": "0e22526e848107acef678422794207a5e13c31b792150dc22ab9aa5f7a20a2f4"
+    },
+    "papers.json": {
+      "sha256": "8bbc41e57fd62f63d9d51efbb6e08758c1d2ae35c499c1424afa86d6c7494247",
+      "bytes": 416365
+    },
+    "coverage.json": {
+      "sha256": "534f677ca3b25d9e53b79bf9ad84db53d66f6507acacdbfe4d780abcb68231d5",
+      "bytes": 427798
+    }
+  },
+  "notes": [
+    "题目文本来自 gaokzx.com、eekaotong.com、zizzs.com 等公开网页及早期本地收集。",
+    "来源站点未声明可再分发许可，license 字段统一为 unknown。",
+    "扫描件题目由 RapidOCR 识别，extract_method=ocr，可能存在识别错误。",
+    "不含 PDF、图片、答案扫描件或任何本地缓存。"
+  ]
+}
