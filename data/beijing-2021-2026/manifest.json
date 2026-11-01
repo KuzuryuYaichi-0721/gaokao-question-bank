@@ -1,0 +1,80 @@
+{
+  "name": "beijing-2021-2026",
+  "description": "北京 2021–2026 高考、一模、二模题目文本（第三方公开来源汇编）",
+  "generated_at": "2026-11-01T02:10:53+00:00",
+  "license": "unknown",
+  "question_count": 13620,
+  "paper_count": 1000,
+  "by_year": {
+    "2021": 2234,
+    "2022": 2619,
+    "2023": 2432,
+    "2024": 1961,
+    "2025": 1692,
+    "2026": 2682
+  },
+  "by_exam_type": {
+    "一模": 8061,
+    "二模": 4535,
+    "高考": 1024
+  },
+  "by_subject": {
+    "英语": 2276,
+    "语文": 2054,
+    "数学": 1777,
+    "政治": 1444,
+    "历史": 1395,
+    "生物": 1277,
+    "物理": 1208,
+    "地理": 1160,
+    "化学": 1029
+  },
+  "by_extract_method": {
+    "text": 13601,
+    "ocr": 19
+  },
+  "quality_counts": {
+    "text": 12033,
+    "text-garbled": 1568,
+    "ocr": 19
+  },
+  "needs_image_count": 2763,
+  "missing_source_url_count": 0,
+  "incomplete_option_count": 198,
+  "paper_status": {
+    "ok": 654,
+    "no_text": 138,
+    "zero_questions": 208
+  },
+  "coverage": {
+    "slots": 1890,
+    "collected": 654,
+    "partial": 346,
+    "missing": 890
+  },
+  "dropped": {
+    "junk": 301,
+    "duplicate": 298
+  },
+  "files": {
+    "questions.json": {
+      "sha256": "e0d55ef1ab7c869bba51f7078900199b41fa7d5ef011a7139e8d915eb9572493",
+      "bytes": 26055651,
+      "sha256_all": "c31c2ccfb53cb9f3743bb0201796452dc027c611e055e2d7a0faf14c6a55d3c3"
+    },
+    "papers.json": {
+      "sha256": "2d5242629f15d314c65adf26afc2239409b82c70cb24ad773cc075388fca1c06",
+      "bytes": 557890
+    },
+    "coverage.json": {
+      "sha256": "7c7879bc351929d7571cb1cecae4dc39a845147907f9230bde4fe343bed5c8c1",
+      "bytes": 457596
+    }
+  },
+  "notes": [
+    "题目文本来自 gaokzx.com、eekaotong.com、kewai100.cn、zgkao.com 等公开网页。",
+    "来源站点未声明可再分发许可，license 字段统一为 unknown。",
+    "扫描件题目由 RapidOCR 识别，extract_method=ocr，可能存在识别错误。",
+    "不含 PDF、图片、答案扫描件或任何本地缓存。"
+  ]
+}
