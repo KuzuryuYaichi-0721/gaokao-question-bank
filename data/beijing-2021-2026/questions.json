@@ -7344,6 +7344,673 @@
   "quality": "text"
  },
  {
+  "id": "8f24c64d8df31e8f5df6d043",
+  "paper_key": "bj-2021-一模-东城-地理",
+  "paper_title": "2021年北京东城区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "东城区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 1,
+  "stem": "我国选择a航线的次数最多，主要考虑的是",
+  "options": [
+   {
+    "key": "A",
+    "text": "航程最短"
+   },
+   {
+    "key": "B",
+    "text": "沿途补给"
+   },
+   {
+    "key": "C",
+    "text": "顺风顺水"
+   },
+   {
+    "key": "D",
+    "text": "避开海雾"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "eekaotong",
+  "source_url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAg9fXHhAYo9o_2xwc.pdf",
+  "license": "unknown",
+  "paper_sha256": "76921a52fe69004863973420936b61f5ebf4b98765945d8fbea8ab9eddf8b8b4",
+  "extract_method": "ocr",
+  "content_hash": "4e4d2210ef312a3f1a3f0d546c43a5754c300b8025b22cf924493465de1ee0d1",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "222270809a4d97676f3622e5",
+  "paper_key": "bj-2021-一模-东城-地理",
+  "paper_title": "2021年北京东城区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "东城区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 3,
+  "stem": "嫦娥五号返回路线中",
+  "options": [
+   {
+    "key": "A",
+    "text": "①到②点，大气多呈电离状态"
+   },
+   {
+    "key": "B",
+    "text": "②点大气主要成分为臭氧"
+   },
+   {
+    "key": "C",
+    "text": "②到③点，大气密度逐渐增大"
+   },
+   {
+    "key": "D",
+    "text": "④点以后即进人了对流层 图3为我国不同区域的山地植被分布示意图。读图，回答第4、5题。 海拔(米) 海拔(米) 年降水量(毫米) 年降水量(毫米) 3000 冰雪 4000 2500 -300 高山苔原 1200 2000高山草包1100 3500高 1500 3000 针叶林 1000 2500针叶林 00S 2000 针阔混交林 荒漠 1500 甲 乙 海拔(米) 年降水量(毫米) 海拔(米) 年降水量(毫米) 8000 2800 高山草甸 7000 冰雪 针阔 2000 混交林 1300 1600 6000 高山寒漠 1200 亚热带 5000 常绿阔叶林 高山草原 1000 4000 丙 丁 图3"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "eekaotong",
+  "source_url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAg9fXHhAYo9o_2xwc.pdf",
+  "license": "unknown",
+  "paper_sha256": "76921a52fe69004863973420936b61f5ebf4b98765945d8fbea8ab9eddf8b8b4",
+  "extract_method": "ocr",
+  "content_hash": "a23eebf6e3d0305eccc5d791461d13982f4efb85e9612c24b294ab73b012254b",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "75b710015bd2f59600b6659b",
+  "paper_key": "bj-2021-一模-东城-地理",
+  "paper_title": "2021年北京东城区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "东城区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 5,
+  "stem": "丁山脉所在地形区",
+  "options": [
+   {
+    "key": "A",
+    "text": "传统民居屋顶坡度大"
+   },
+   {
+    "key": "B",
+    "text": "以绿洲农业为主"
+   },
+   {
+    "key": "C",
+    "text": "湿地面积广大"
+   },
+   {
+    "key": "D",
+    "text": "生物能资源丰富 高三地理第2页（共11页） 图4为某地区地质剖面示意图。读图，回答第6、7题。 +++ 图 ++ 例 泥灰岩 石灰岩 泥页岩 砂岩 侵入岩体 图4"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "eekaotong",
+  "source_url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAg9fXHhAYo9o_2xwc.pdf",
+  "license": "unknown",
+  "paper_sha256": "76921a52fe69004863973420936b61f5ebf4b98765945d8fbea8ab9eddf8b8b4",
+  "extract_method": "ocr",
+  "content_hash": "ceab940d7f438f4e13673a77a25ab1a52bf59f2b2b9239e69dbc80a0f0e97117",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "5723a6eeb46808afd18af8b4",
+  "paper_key": "bj-2021-一模-东城-地理",
+  "paper_title": "2021年北京东城区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "东城区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 7,
+  "stem": "泥灰岩形成以后，该地区经历的地质过程依次是",
+  "options": [
+   {
+    "key": "A",
+    "text": "岩层断裂一沉积一岩浆侵人"
+   },
+   {
+    "key": "B",
+    "text": "岩层弯曲一岩层断裂一岩浆侵人"
+   },
+   {
+    "key": "C",
+    "text": "岩浆侵人一沉积一岩层断裂"
+   },
+   {
+    "key": "D",
+    "text": "岩浆侵人一岩层弯曲一岩层断裂 北京某快餐企业提出全时段(约6一22点)餐饮理念，主打三大核心单品一—馄饨、羊肉 串、盖饭。图5为该快餐企业部分门店分布图。据此，回答第8题。 色 方庄芳古园 景泰 方庄 色 芳星园 刘家窑南里 东铁营桥 赵公口桥 四方景园 刘家窑 分钟 贾家花园 政馨园 ·某快餐门店位置 5号线 图5"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "eekaotong",
+  "source_url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAg9fXHhAYo9o_2xwc.pdf",
+  "license": "unknown",
+  "paper_sha256": "76921a52fe69004863973420936b61f5ebf4b98765945d8fbea8ab9eddf8b8b4",
+  "extract_method": "ocr",
+  "content_hash": "298ebec93a4b3e44eba95617d6e2527ba14e441452e0b930a5682c754d762f08",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "3d7023110fbbaeb8cd84bb18",
+  "paper_key": "bj-2021-一模-东城-地理",
+  "paper_title": "2021年北京东城区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "东城区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 8,
+  "stem": "为了发挥全时段经营的优势，该快餐门店多布局在",
+  "options": [
+   {
+    "key": "A",
+    "text": "商业区"
+   },
+   {
+    "key": "B",
+    "text": "住宅区"
+   },
+   {
+    "key": "C",
+    "text": "行政区"
+   },
+   {
+    "key": "D",
+    "text": "地铁站周边 高三地理第3页(共11页) 1990一2014年巴黎、上海、广州城市总人口数和城市用地面积持续上升，图6为三个城 市的城市人口密度变化。据此，回答第9、10题。 12014年 巴黎 = 2000年 1990年 上海 广州 城市人口密度(人/hm) 图6"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "eekaotong",
+  "source_url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAg9fXHhAYo9o_2xwc.pdf",
+  "license": "unknown",
+  "paper_sha256": "76921a52fe69004863973420936b61f5ebf4b98765945d8fbea8ab9eddf8b8b4",
+  "extract_method": "ocr",
+  "content_hash": "62bd7cef886137af40f20459648077ac096d604a40a9c7e08da418819765aeb5",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "f5f737b22db6ee04eca84c4d",
+  "paper_key": "bj-2021-一模-东城-地理",
+  "paper_title": "2021年北京东城区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "东城区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 10,
+  "stem": "广州城市人口密度的变化，表明其",
+  "options": [
+   {
+    "key": "A",
+    "text": "城市化水平下降慢"
+   },
+   {
+    "key": "B",
+    "text": "内部空间结构趋于简单"
+   },
+   {
+    "key": "C",
+    "text": "人均土地面积减小"
+   },
+   {
+    "key": "D",
+    "text": "城市用地规模快速扩展 因长江三峡工程蓄放水，库区水位周期性大幅度涨落，形成了周期性出露水面的消落带 （图7）。消落带的生态治理是世界级难题。经过多年的反复试验，专家们发现中山杉能持续 抵抗干旱，也能承受较长时间水中浸泡，存活率高达80%以上，是库区消落带生物治理中较 好的乔木树种。目前，万州大周段中山杉已成为重庆的“水中彩林”景点。据此，回答第11、 12题。 最高蓄水位175米 最低蓄水位145米 图7"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "eekaotong",
+  "source_url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAg9fXHhAYo9o_2xwc.pdf",
+  "license": "unknown",
+  "paper_sha256": "76921a52fe69004863973420936b61f5ebf4b98765945d8fbea8ab9eddf8b8b4",
+  "extract_method": "ocr",
+  "content_hash": "e8c796b5a9947b708f8edeb3b5c2502e2220e028117404eaf2c89a99f12e7ebb",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "268a3db00cd81c6c3f9da6d2",
+  "paper_key": "bj-2021-一模-东城-地理",
+  "paper_title": "2021年北京东城区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "东城区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 11,
+  "stem": "三峡库区消落带面临的生态问题主要是",
+  "options": [
+   {
+    "key": "A",
+    "text": "土地盐碱化"
+   },
+   {
+    "key": "B",
+    "text": "土地沙化"
+   },
+   {
+    "key": "C",
+    "text": "水土流失"
+   },
+   {
+    "key": "D",
+    "text": "滑坡"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "eekaotong",
+  "source_url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAg9fXHhAYo9o_2xwc.pdf",
+  "license": "unknown",
+  "paper_sha256": "76921a52fe69004863973420936b61f5ebf4b98765945d8fbea8ab9eddf8b8b4",
+  "extract_method": "ocr",
+  "content_hash": "1ecffe87b2461077efc48a9b6a8ddd404a44784ef3fb0bd2c5f3d06757ac270e",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "147c962a0bfa7c6344116e06",
+  "paper_key": "bj-2021-一模-东城-地理",
+  "paper_title": "2021年北京东城区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "东城区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 12,
+  "stem": "种植中山杉对当地的影响主要有 ①净化水质②提供木材③降低河流含沙量④改善航运条件5丰富沿岸景观",
+  "options": [
+   {
+    "key": "A",
+    "text": "②③④5"
+   },
+   {
+    "key": "B",
+    "text": "①②③5"
+   },
+   {
+    "key": "C",
+    "text": "①②③④"
+   },
+   {
+    "key": "D",
+    "text": "①③④5 高三地理第4页（共11页） 萨雷兹湖（图8)位于塔吉克斯坦东部的帕米尔高原上，是1911年2月18日形成的天然 湖泊。该湖泊海拔3263m，最大水深505m（1986年测量），面积79.6km²，蓄水量160多 亿m”。该湖泊淡水储量大、风光绮丽，却被列为潜在自然灾害重点地区。据此，回答第13～ 15题。 38°16N 38°07N 72°54'E 72°34'E 图8"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "eekaotong",
+  "source_url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAg9fXHhAYo9o_2xwc.pdf",
+  "license": "unknown",
+  "paper_sha256": "76921a52fe69004863973420936b61f5ebf4b98765945d8fbea8ab9eddf8b8b4",
+  "extract_method": "ocr",
+  "content_hash": "8d12d4bb41853f687461afd315ffdae5a6aeb20733a1bd855d45b7f8df754c72",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "4d0ceb40754bc4ee0c508ab7",
+  "paper_key": "bj-2021-一模-东城-地理",
+  "paper_title": "2021年北京东城区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "东城区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 13,
+  "stem": "萨雷兹湖的形成是由于",
+  "options": [
+   {
+    "key": "A",
+    "text": "海陆变迁，海水人侵"
+   },
+   {
+    "key": "B",
+    "text": "冰川侵蚀，河流水注人"
+   },
+   {
+    "key": "C",
+    "text": "火山喷发，火山口积水"
+   },
+   {
+    "key": "D",
+    "text": "地震引发滑坡，阻塞河道"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "eekaotong",
+  "source_url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAg9fXHhAYo9o_2xwc.pdf",
+  "license": "unknown",
+  "paper_sha256": "76921a52fe69004863973420936b61f5ebf4b98765945d8fbea8ab9eddf8b8b4",
+  "extract_method": "ocr",
+  "content_hash": "cfb01ecce56dd6427c4a844aed3e6419ce76d455bc5b96d5401cc81741d04449",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "b8005d33dd752a85a5805e46",
+  "paper_key": "bj-2021-一模-东城-地理",
+  "paper_title": "2021年北京东城区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "东城区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 14,
+  "stem": "据研究，萨雷兹湖水域面积有扩大趋势，主要原因是",
+  "options": [
+   {
+    "key": "A",
+    "text": "全球变暖，冰川融水补给增多"
+   },
+   {
+    "key": "B",
+    "text": "年降水量增加，河流流量增加"
+   },
+   {
+    "key": "C",
+    "text": "地下水位上升，不断补给湖泊"
+   },
+   {
+    "key": "D",
+    "text": "植被覆盖率增加，蒸发量减少"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "eekaotong",
+  "source_url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAg9fXHhAYo9o_2xwc.pdf",
+  "license": "unknown",
+  "paper_sha256": "76921a52fe69004863973420936b61f5ebf4b98765945d8fbea8ab9eddf8b8b4",
+  "extract_method": "ocr",
+  "content_hash": "657ae4638bb76a0ada1fc1822d85316b3c801575d9857082f8f952123bdd264d",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "acd1a1c8e8dc0059888c9e0a",
+  "paper_key": "bj-2021-一模-东城-地理",
+  "paper_title": "2021年北京东城区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "东城区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 15,
+  "stem": "为降低该湖泊潜在自然灾害的危险性，应该",
+  "options": [
+   {
+    "key": "A",
+    "text": "植树造林，防治水土流失"
+   },
+   {
+    "key": "B",
+    "text": "退耕还湖，扩大湖泊面积"
+   },
+   {
+    "key": "C",
+    "text": "引水外流，降低湖泊水位"
+   },
+   {
+    "key": "D",
+    "text": "拓宽河道，减少人湖水量 高三地理第5页（共11页） 第二部分（非选择题共55分）"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "eekaotong",
+  "source_url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAg9fXHhAYo9o_2xwc.pdf",
+  "license": "unknown",
+  "paper_sha256": "76921a52fe69004863973420936b61f5ebf4b98765945d8fbea8ab9eddf8b8b4",
+  "extract_method": "ocr",
+  "content_hash": "7e758a882456b59b6537c6b1f370c00b3d2677cc078b7f595cfd7a26081fc82e",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "5f8f51a15dbfca450985670e",
+  "paper_key": "bj-2021-一模-东城-地理",
+  "paper_title": "2021年北京东城区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "东城区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 16,
+  "stem": "土壤厚度是指土壤母质层以上到土壤表面的垂直深度。密云区位于北京市东北部， 全区面积约90%为山区，某研究团队采用抽样调查法研究该山区土壤厚度特征。图9为 26个不同采样点阴坡和阳坡土壤厚度，图10为土壤厚度随坡度变化趋势线和随植被覆 盖度变化趋势线，表1为两个采样点采集到的信息。读资料，回答下列问题。 阴坡 -土壤厚度随植被覆盖度变化趋势线 阳坡 土壤厚度随坡度变化趋势线 土壤厚度(cm) 度75 度 被覆盖厂 20坡 植 样本号 土壤厚度（cm） 图9 图10 表1 采样点 坡向 平均坡度(°) 植被覆盖度（%） 西邵渠 东 古北口2 北 (1)与西邵渠相比，判断古北口2采样点土壤厚度大小，阐述理由。(6分） (2)概括该研究项目的名称，说出该研究成果在区域发展中的一项应用。（4分） 高三地理第6页（共11页）",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 6.0,
+  "source": "eekaotong",
+  "source_url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAg9fXHhAYo9o_2xwc.pdf",
+  "license": "unknown",
+  "paper_sha256": "76921a52fe69004863973420936b61f5ebf4b98765945d8fbea8ab9eddf8b8b4",
+  "extract_method": "ocr",
+  "content_hash": "f505c01cecdcb6b568e570fb03ef0066690eb2748e5c3463f16cf9905b374f69",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "b15a847bf0731de4e239292c",
+  "paper_key": "bj-2021-一模-东城-地理",
+  "paper_title": "2021年北京东城区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "东城区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 17,
+  "stem": "新安江发源于黄山市休宁县，地跨皖、浙两省，为钱塘江正源。图11为新安江流域 示意图。读资料，回答下列问题。 浙 城市 河流 新安江流域 练江流域 省界线 图11 练江是新安江重要支流，练江流域西北部的莲花峰海拔1864m，歙县县城低处海 拔115m。 (1)概述练江流域主要地形特征。(3分) 2020年7月6日20时至7日8时，练江流域降雨量达163mm。图12为练江流域6 月1日至7月5日降雨量。 日降雨量/mm J06 958589日期（月-日） 666666666666777 图12 (2)2020年7月7日，歙县县城洪水灾情严重，分析自然原因。（4分） 2015年，安徽休宁山泉养鱼系统被列入中国重要农业文化遗产名录。休宁山区居 民挖坑筑池，引入山泉溪水养鱼，鱼群以当地天然饵料为食。目前泉水鱼订单供不应求。 (3)说明休宁重点发展泉水鱼产业的优势条件。（4分） 2012年，我国第一个跨省生态补偿机制试点在新安江流域设立。按照“谁受益谁补 偿、谁保护谁受偿”原则，建立补偿机制。黄山市关停改造污染企业、拆除网箱，重点发展 旅游、有机茶、泉水鱼等产业。近年来，新安江水量充沛且水质为优。 (4)说明实施新安江生态补偿机制对流域内部协同发展的意义。（4分） 高三地理第7页（共11页）",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 3.0,
+  "source": "eekaotong",
+  "source_url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAg9fXHhAYo9o_2xwc.pdf",
+  "license": "unknown",
+  "paper_sha256": "76921a52fe69004863973420936b61f5ebf4b98765945d8fbea8ab9eddf8b8b4",
+  "extract_method": "ocr",
+  "content_hash": "7de8da1c67108fc24763dbf230d5dec7cc08b29348c9aea6a62367bde91610dc",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "92615972a6e17b4b0a26e316",
+  "paper_key": "bj-2021-一模-东城-地理",
+  "paper_title": "2021年北京东城区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "东城区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 18,
+  "stem": "波兰位于欧洲大陆中部，是欧洲最早与“一带一路”倡议实现发展战略对接的国家。 读资料，回答下列问题。 表22018年中国出口波兰主要商品金额及比重 商品类别 金额（亿美元） 占比(%) 机电产品 矿产品 纺织品及原料 化工产品 贱金属及制品 塑料、橡胶 0'8 运输设备 纤维素浆、纸张 家具、玩具、杂项 (1)根据表2数据，补全图13，归纳2018年中国出口波兰的商品类别结构特点。（4分） 矿产品 纤维素浆、纸张 运输设备 塑料、橡胶 贱金属及制品 纺织品及原料 机电产品 占比(%) 图13 高三地理第8页（共11页） 2018年，我国某家电集团欧洲研发中心在波兰首都华沙成立，这是该集团开拓欧洲 市场的重要举措。在研发中心50km外的华沙城郊，有该集团投资的最大工厂。 (2)解释该集团选择华沙作为欧洲研发中心的原因。（3分） 维利奇卡盐矿位于波兰南部，13世纪开始开采，1996年停止开采。盐矿有2000多 个洞室，人力修筑的曲折通道总长达300km，最深处327m，共九层。盐矿中有教堂、画 廊、地下湖泊等，除了木制通道和房梁外，这里的一切全部由盐岩筑成，形成一座奇幻的 地下盐城。维利奇卡盐矿1978年被评为世界文化遗产，如今已成为波兰最受欢迎的景 点之一。图14为维利奇卡盐矿部分旅游线路示意图。 降 第一层 卡西姆大厅 机 井 圣安东尼教堂 深度约64m 哥白尼厅 第二层（上） 深度约90m 圣金加教 第二层（下） 深度约110m 夹层 风 深度约125m 第三层 深度约135m 圣约翰教堂 图14 (3)从旅游资源角度，简述维利奇卡盐矿具有强烈吸引力的原因。（3分） 高三地理第9页（共11页）",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 4.0,
+  "source": "eekaotong",
+  "source_url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAg9fXHhAYo9o_2xwc.pdf",
+  "license": "unknown",
+  "paper_sha256": "76921a52fe69004863973420936b61f5ebf4b98765945d8fbea8ab9eddf8b8b4",
+  "extract_method": "ocr",
+  "content_hash": "08b6b9d7c731270d436cb9b04443884d7114ddb6c77c5fd065b08daae4a59fd5",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "8016c12bcd5ddf228abe3347",
+  "paper_key": "bj-2021-一模-东城-地理",
+  "paper_title": "2021年北京东城区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "东城区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 19,
+  "stem": "丹东市地处辽宁省东南部（图15)，同时拥有江、河、湖、海、山、岛、林、泉等资源。读 资料，回答下列问题。 朝鲜 图 例 城市 河流 丹东 铁路 港口 国界线 省界线 市界线 图15 丹东市作为中国最大的边境城市，建设国际物流口岸是其发展经济的重要途径。 (1)分析丹东市建设国际物流口岸的优势条件。(3分） 近年来，北京的老年人夏季赴丹东市养老旅游的数量大增。 (2)简述丹东市夏季吸引北京老年人养老旅游的自然原因。(3分) 柞蚕因喜食椎树叶得名，是我国特有的一种具有经济价值的昆虫资源。丹东市有 “柞蚕之乡”之称，其山区有近300年的放养历史，近年来发展了服饰加工、保健产品等产 业链(图16)。 抚育椎树 生态肥料 废水废渣 种植灌草 智能丝 放养作蚕 柞蚕茧 蚕丝 蚕蛹 服饰加工 保健产品 图16 (3)说明丹东市发展柞蚕产业链的意义。(4分） 高三地理第10页（共11页）",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 3.0,
+  "source": "eekaotong",
+  "source_url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAg9fXHhAYo9o_2xwc.pdf",
+  "license": "unknown",
+  "paper_sha256": "76921a52fe69004863973420936b61f5ebf4b98765945d8fbea8ab9eddf8b8b4",
+  "extract_method": "ocr",
+  "content_hash": "fc982da78d49803d13f2d06080dd7a4948932864b568c0827ee3370a150ec853",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "319be6c7bb3e5902d51346a8",
+  "paper_key": "bj-2021-一模-东城-地理",
+  "paper_title": "2021年北京东城区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "东城区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 20,
+  "stem": "秘鲁（图17)沿海地区面积占领土面积的11%，居住着全国52.1%的人口；中部山区 面积占秘鲁领土面积的29%，居住着全国36.9%的人口；东部雨林地区占全国领土面积 的60%，但人口仅占11%。读资料，回答下列问题。 80° 70° 伊基托斯 10° 陆高/米 图例 5000 ?城市/首都 3000 1000 口 马丘比丘遗址 00S 河流 国界线 图17 (1)伊基托斯至今无公路和铁路与国内其他城市相连，简析自然原因。(3分） 一位秘鲁青年发明了能够将空气中水汽加工成水的轻便设备，获得了2020年联合 国环境规划署的“地球卫士青年奖”。目前该设备已在利马农村人口密集地区推广。 (2)说明此设备在利马农村地区推广的主要原因。(4分） 马丘比丘城建于1440年左右，位于海拔2350一2430m处，1983年被列入世界文化 与自然遗产。印加古道是徒步前往马丘比丘城的热门线路。秘鲁政府每天只允许300 名游客进入古道，所有人必须参与旅行团队，每年2月都会关闭古道，3月重新开放。 (3)说出秘鲁政府采取上述措施的目的。（3分） 高三地理第11页（共11页） 18.(10 分) 北京市东城区2020一2021学年度第二学期高三综合练习（一） (1)绘图：位置、长度、注记。(2分） 地理试卷答案及评分参考 2021. 4 矿产品 纤维素浆、纸张 第一部分选择题（每小题3分共45分） 运输设备 塑料、橡胶 题号 化工产品 贱金属及制品 A B 答案 A A C C B B D D 纺织品及原料 题号 家具、玩具、杂项 机电产品 答案 C B D A C 占比(%) 第二部分非选择题（共55分） 特点：机电产品比重最大；其次是家具、玩具、杂项和纺织品及原料。(2分) 16.(10分) (2)华沙为波兰首都，科研力量雄厚；距离生产工厂近，方便技术成果转化；政策支持；波 兰位于欧洲中部，距离欧洲各大市场近；地处欧洲交通枢纽位置，交通便捷等。(（3分) (1)古北口2采样点的土壤厚度大。 (3)旅游资源类型多样；非凡性强；具有较高历史文化价值、美学价值。（3分） 两个采样点平均坡度相同；古北口2采样点朝北，为阴坡，阴坡的土壤厚度大于阳坡； 19.(10分) 古北口2采样点植被覆盖率高于西邵渠，植被覆盖率高的地区土壤厚度大。（6分） (1)边境城市，便于发展国际贸易；有国际铁路、海运等与国外联系，交通便利；开放的政 (2)项目名称：北京市密云山区土壤厚度特征研究。(合理即给分） 策支持。(3分) 应用：为山区土地利用、水土保持规划与生态建设等提供重要依据。（4分） (2)丹东市临海，夏季气温比北京低，较为凉爽；空气清新，生态环境好；江、海、山、泉等， 自然景观多样。（3分） 17.(15分) (3)在山区抚育柞树，种植灌草，提高植被覆盖率，防止水土流失；柞蚕茧加工过程中减少 (1)(西)北高，(东)南低；山地、丘陵为主；地势起伏大。(3分） 废水废渣的排放，清洁生产；柞蚕茧深加工，产品种类多，附加值高，经济效益高；产业 (2)前期降水多，水位高；6日到7日练江流域短时降水强度大；上游山区地势起伏大，流 链长，增加就业。(4分) 速快，涨水快；多条支流在歙县汇集；歙县县城地势低，排水不畅。（4分） 20.(10分） (3)山泉溪水，水质好；天然饵料，污染少；传统养鱼方法，经验丰富；绿色产品，市场需求 (1)地处秘鲁东北部，位置偏远；高大山脉阻隔；植被茂密；河网密布等。(3分) 量大。(4分) (2)气候干旱；地表河流少，水量小；人口密集，生产生活需水量大，水资源短缺；此设备轻 (4)安徽省位于上游，保护环境，获得经济补偿，发展绿色产业和生态产业；浙江省位于下 便，适宜在农村地区推广。(4分) (3)保护自然环境；保护遗址遗迹；保障游客安全；使游客有更好的旅游体验。（3分） 游，提供经济补偿，获得优质水源，促进经济发展；促进流域内部共同发展。（4分） 高三地理 参考答案及评分标准第1页（共2页） 高三地理 参考答案及评分标准第2页（共2页）",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 3.0,
+  "source": "eekaotong",
+  "source_url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAg9fXHhAYo9o_2xwc.pdf",
+  "license": "unknown",
+  "paper_sha256": "76921a52fe69004863973420936b61f5ebf4b98765945d8fbea8ab9eddf8b8b4",
+  "extract_method": "ocr",
+  "content_hash": "dd05bffdc1da306fac7fbed8294a897bec3dbbcf20ad710813be2f9df34d64ea",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
   "id": "c81d208c1381923aa9408f03",
   "paper_key": "bj-2021-一模-西城-语文",
   "paper_title": "2021年北京西城区高三一模语文试卷",
@@ -29938,6 +30605,1387 @@
   "quality": "text"
  },
  {
+  "id": "6c9dd628dddad494410775ee",
+  "paper_key": "bj-2021-一模-海淀-历史",
+  "paper_title": "2021年北京海淀区高三一模历史试卷",
+  "subject": "历史",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 1,
+  "stem": "《墨子》云：“三代之圣王，其始建国营都之日，必择国之正坛，置以为宗庙。”即夏商西 周时期，建国必先立宗庙，宗庙既是祭祖的地方，又是施政场所。这表明，中国早期国家 ①国家机构与宗族组织合 ②依据宗法关系来治理国家 ③排斥异姓贵族的政治权力 ④不能得到地方诸侯的效忠",
+  "options": [
+   {
+    "key": "A",
+    "text": "①② www."
+   },
+   {
+    "key": "B",
+    "text": "②③"
+   },
+   {
+    "key": "C",
+    "text": "①③"
+   },
+   {
+    "key": "D",
+    "text": "③④ 张仲景生活在东汉末年，时值瘟疫流行。他“勤求古训，博采众方”，刻苦攻读古代医学 文献，继承了《黄帝内经》等古代医籍的基本理论，结合当时医家及自已长期积累的医 疗经验，撰写了《伤寒杂病论》，使中医学基本理论与临床实践紧密结合起来。张仲景能 为中国医学做出突出贡献是因为 ①医者个人品质和精神 ②北方的人口大量南迁 ③前代医学理论的积淀 ④疾病流行的急迫需要 高考在线 ozx.com"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50155.html",
+  "license": "unknown",
+  "paper_sha256": "e4b66c94f93b7c3741763c0411d30a4751f8b78d937b5b7f3ebb034da76d1fcc",
+  "extract_method": "ocr",
+  "content_hash": "7b644f2909d8ab285610f8731e7a2de2ffc03c4435f03c85c5ee2c18e5918343",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "668c752fd7d8046088de9127",
+  "paper_key": "bj-2021-一模-海淀-历史",
+  "paper_title": "2021年北京海淀区高三一模历史试卷",
+  "subject": "历史",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 3,
+  "stem": "南宋叶适为代表的永嘉学派认为“利”是“义”的物质内容，“抑利”的结果将使“义” 本身成为空洞的概念，“无功利，则道义者乃无用之虚语尔”。永嘉学派的主张",
+  "options": [
+   {
+    "key": "A",
+    "text": "强调了儒家重义轻利的主张"
+   },
+   {
+    "key": "B",
+    "text": "适应了自给自足的自然经济"
+   },
+   {
+    "key": "C",
+    "text": "宣扬了理学家存天理的观念"
+   },
+   {
+    "key": "D",
+    "text": "反映了商品经济发展的现实"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50155.html",
+  "license": "unknown",
+  "paper_sha256": "e4b66c94f93b7c3741763c0411d30a4751f8b78d937b5b7f3ebb034da76d1fcc",
+  "extract_method": "ocr",
+  "content_hash": "ab0fa5e33576fa9c470b5cafcbeb75a065c47d9c9bcb0af87bc2453880e5ae75",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "ecdeb0766ad5f5d99d46ddf0",
+  "paper_key": "bj-2021-一模-海淀-历史",
+  "paper_title": "2021年北京海淀区高三一模历史试卷",
+  "subject": "历史",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 4,
+  "stem": "明朝实行“匠籍”制度，在籍的工匠每年要定期到官营手工作坊服役。工匠往往以消极怠 工和逃亡的方式反抗。嘉靖四十一年(1563年)，政府规定，工匠一律“以银代役”，放免 了80%的工匠。而官府需要的物品改由市场购买，质优价廉。导致官营手工业衰落的原 OZ 因有 ①工商业经济的发展兴盛 ②明朝政府的财政入不敷出 ③手工业工匠的反抗斗争 ④农业与手工业争夺劳动力",
+  "options": [
+   {
+    "key": "A",
+    "text": "①②"
+   },
+   {
+    "key": "B",
+    "text": "①③"
+   },
+   {
+    "key": "C",
+    "text": "③④"
+   },
+   {
+    "key": "D",
+    "text": "②④ 历史第1页 (共8页) 获取更多试题资料及排名分析信息。"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50155.html",
+  "license": "unknown",
+  "paper_sha256": "e4b66c94f93b7c3741763c0411d30a4751f8b78d937b5b7f3ebb034da76d1fcc",
+  "extract_method": "ocr",
+  "content_hash": "21ff0f6cfb94cbb2a52157028019362a29b922ee3e029768e20a9b7333d871bd",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "37a9c70b29509029a52f256c",
+  "paper_key": "bj-2021-一模-海淀-历史",
+  "paper_title": "2021年北京海淀区高三一模历史试卷",
+  "subject": "历史",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 5,
+  "stem": "史学家戴逸论述：“汉唐宋明均以关内富庶之区为立足点，北筑长城，抵拒北方游牧民族 雅苏台和巴里坤、哈密一带。”对康熙皇帝上述作为的评价，正确的是 kaozx",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50155.html",
+  "license": "unknown",
+  "paper_sha256": "e4b66c94f93b7c3741763c0411d30a4751f8b78d937b5b7f3ebb034da76d1fcc",
+  "extract_method": "ocr",
+  "content_hash": "7f12c03d8835b6b5aaf712c26690a56ce1e9845b8c8ec872a5d27340391bb2c1",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "a38a1cb4e66c6828fd7f4d0a",
+  "paper_key": "bj-2021-一模-海淀-历史",
+  "paper_title": "2021年北京海淀区高三一模历史试卷",
+  "subject": "历史",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 8,
+  "stem": "解放战争的形势是",
+  "options": [
+   {
+    "key": "A",
+    "text": "战略反攻拉开序幕"
+   },
+   {
+    "key": "B",
+    "text": "战略决战取得胜利"
+   },
+   {
+    "key": "C",
+    "text": "人民解放军攻占南京"
+   },
+   {
+    "key": "D",
+    "text": "人民解放军追歼残匪"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50155.html",
+  "license": "unknown",
+  "paper_sha256": "e4b66c94f93b7c3741763c0411d30a4751f8b78d937b5b7f3ebb034da76d1fcc",
+  "extract_method": "ocr",
+  "content_hash": "5cf779f10ab728490ed36fe9337e894f06712a2a009c2bcedd822a114cc2a021",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "9aa8efe84bbd31098bbfe815",
+  "paper_key": "bj-2021-一模-海淀-历史",
+  "paper_title": "2021年北京海淀区高三一模历史试卷",
+  "subject": "历史",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 9,
+  "stem": "右图为1993年5月10日朝阳区西石门粮店的店员在登记注销最后一批粮票。随着粮票 普遍注销，北京流通了几十年的粮票制度宣告终结。此现象说明",
+  "options": [
+   {
+    "key": "A",
+    "text": "农村推行包产到户的责任制"
+   },
+   {
+    "key": "B",
+    "text": "城市经济体制改革蓄势待发"
+   },
+   {
+    "key": "C",
+    "text": "国家放弃对经济的宏观调控"
+   },
+   {
+    "key": "D",
+    "text": "计划经济体制退出历史舞台 历史第2页(共8页) 获取更多试题资料及排名分析信息。"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50155.html",
+  "license": "unknown",
+  "paper_sha256": "e4b66c94f93b7c3741763c0411d30a4751f8b78d937b5b7f3ebb034da76d1fcc",
+  "extract_method": "ocr",
+  "content_hash": "87d423bc95ef30dc543cc3554c9ddaa17552e72775f36d7393e010c4f1c489fb",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "1633f724108c3af13b97dfa1",
+  "paper_key": "bj-2021-一模-海淀-历史",
+  "paper_title": "2021年北京海淀区高三一模历史试卷",
+  "subject": "历史",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 10,
+  "stem": "宣传画具有时代的特点。下列宣传画按其所反映内容出现的时间排列正确的是 考在线 com 澳门回归 全国人民一致剪力真明 鼠五年計前的基本任将而产 ①“全国人民一致努力 ②“澳门回归” ③“特区，中国开 ④“把学习成绩告 为实现第一个五年计 放的大门” 诉志愿军叔叔” 任线 划的基本任务而奋斗” com",
+  "options": [
+   {
+    "key": "A",
+    "text": "④①③②"
+   },
+   {
+    "key": "B",
+    "text": "①②③④"
+   },
+   {
+    "key": "C",
+    "text": "③②①④"
+   },
+   {
+    "key": "D",
+    "text": "②④①③"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50155.html",
+  "license": "unknown",
+  "paper_sha256": "e4b66c94f93b7c3741763c0411d30a4751f8b78d937b5b7f3ebb034da76d1fcc",
+  "extract_method": "ocr",
+  "content_hash": "5c66438955ac1adeeb431747fd169931ca64a214c035890375bd27beab4f2951",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "fbafdba6956cfd080c18871a",
+  "paper_key": "bj-2021-一模-海淀-历史",
+  "paper_title": "2021年北京海淀区高三一模历史试卷",
+  "subject": "历史",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 11,
+  "stem": "某同学研究下列时间轴，对16～17世纪中外历史发展趋势做出概括。其中概括正确的是 ①西方资本主义制度迅速发展 导 荷兰占据台湾 葡萄牙占据澳门 郑成功收复台湾 ②西方国家殖民争夺日益激烈 路德宗教改萃 英国击败西班牙无敌舰队 英国颁布《航海条例》 ③天主教势力在西欧不断加强 ④殖民侵略开始威胁中国安全",
+  "options": [
+   {
+    "key": "A",
+    "text": "①②③"
+   },
+   {
+    "key": "B",
+    "text": "②③④"
+   },
+   {
+    "key": "C",
+    "text": "①③④ 着永恒的规律。例如供求规律、收益递减规律等。国家的功能应当减少到能够维持公共 安全的最低限度上。”政府应该“维护秩序，保护财产，但决不可干预经济运行过程”。 WwW 与上述主张的提出相关的是 ①新航路开辟后殖民活动的兴起 ②启蒙运动中主张的理性原则 ③工业革命期间资本主义的发展 ④资本主义经济进入垄断时期"
+   },
+   {
+    "key": "D",
+    "text": "①②④"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50155.html",
+  "license": "unknown",
+  "paper_sha256": "e4b66c94f93b7c3741763c0411d30a4751f8b78d937b5b7f3ebb034da76d1fcc",
+  "extract_method": "ocr",
+  "content_hash": "86f381b4be711721ed2d2b443f203ef9aeb28ad1cce6cefa715d0328967bc57d",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "c6911553772bbda436f5dba8",
+  "paper_key": "bj-2021-一模-海淀-历史",
+  "paper_title": "2021年北京海淀区高三一模历史试卷",
+  "subject": "历史",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 13,
+  "stem": "英国 C法国 德国 美国 年份 1820 50% 15～20% 10% 1840 45% 12% 11% 1850 39% 15% 15% -- 32% 10% 13% 23% 1870 历史第3页(共8页) 获取更多试题资料及排名分析信息。 以上资料应该用来说明 高考在线",
+  "options": [
+   {
+    "key": "A",
+    "text": "工业革命在欧美扩展"
+   },
+   {
+    "key": "B",
+    "text": "第二次工业革命的完成 ozx.com"
+   },
+   {
+    "key": "C",
+    "text": "英国殖民体系的崩溃"
+   },
+   {
+    "key": "D",
+    "text": "德意志统一的历史意义"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50155.html",
+  "license": "unknown",
+  "paper_sha256": "e4b66c94f93b7c3741763c0411d30a4751f8b78d937b5b7f3ebb034da76d1fcc",
+  "extract_method": "ocr",
+  "content_hash": "46d2e9bf3186ff7035c75c08af238c52c6a136155d12cf34aa9c15c7e29b0ed9",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "019e597d1acc4d11b4b00785",
+  "paper_key": "bj-2021-一模-海淀-历史",
+  "paper_title": "2021年北京海淀区高三一模历史试卷",
+  "subject": "历史",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 14,
+  "stem": "某土地法令规定：没收地主的土地，实现土地国有化，将土地分配给劳动者使用。此土地 法令颁布于 WwW",
+  "options": [
+   {
+    "key": "A",
+    "text": "明治维新时期的日本"
+   },
+   {
+    "key": "B",
+    "text": "十月革命时期的苏俄"
+   },
+   {
+    "key": "C",
+    "text": "不合作运动中的印度"
+   },
+   {
+    "key": "D",
+    "text": "罗斯福新政中的美国"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50155.html",
+  "license": "unknown",
+  "paper_sha256": "e4b66c94f93b7c3741763c0411d30a4751f8b78d937b5b7f3ebb034da76d1fcc",
+  "extract_method": "ocr",
+  "content_hash": "e0b15961adfecc35e4c259b0f6516808dc28391235f8ce1b72e990333736d9c0",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "35d0d3dd84b2542216b51dfa",
+  "paper_key": "bj-2021-一模-海淀-历史",
+  "paper_title": "2021年北京海淀区高三一模历史试卷",
+  "subject": "历史",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 15,
+  "stem": "文学艺术是社会现实的反映和时代的产物。以下三幅作品的共同点是 《等待戈多》 《时代在改变》摇滚乐 《格尔尼卡》局部 ①表现了现代西方社会的精神危机 ②体现了对理性王国的向往和追求 ③表达了文学艺术的浪漫主义倾向 ④用夸张手法表达作者的自我感受",
+  "options": [
+   {
+    "key": "A",
+    "text": "①③"
+   },
+   {
+    "key": "B",
+    "text": "②④"
+   },
+   {
+    "key": "C",
+    "text": "①④"
+   },
+   {
+    "key": "D",
+    "text": "③④ 历史第4页 (共8页) 获取更多试题资料及排名分析信息。 第二部分 本部分共5题，共55分。 kaozx.com"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50155.html",
+  "license": "unknown",
+  "paper_sha256": "e4b66c94f93b7c3741763c0411d30a4751f8b78d937b5b7f3ebb034da76d1fcc",
+  "extract_method": "ocr",
+  "content_hash": "f1b5b8367b391b830cf142cebedbd33487cc79bafeee43299337a46c94b4c2a7",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "460bfedeb8b2d12b0b534d14",
+  "paper_key": "bj-2021-一模-海淀-历史",
+  "paper_title": "2021年北京海淀区高三一模历史试卷",
+  "subject": "历史",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "写作题",
+  "q_no": 16,
+  "stem": "史学编撰与史学原则（10分） 材料一至于这场战争中发生的各种事情，我认为在叙述它们的时候我的责任是不相信任何 一个偶然的消息，也不相信在我看来很有可能是真实的事情。我列举的事件，无论是我亲自 参与的还是我从其他人那里得到的，都经过了精心备至的考核。因为事件的目击者拥护一方 反对另一方。 我的叙述由于缺乏虚构很可能不会那么引人入胜，但是那些希望清晰地了解业已发生的 事件以及希望借鉴历史经验的人，如果认为我的历史叙述是有益的话，那对我来说就足够了。 的确，它是为了垂诸久远才编纂的。 摘编自修昔底德《伯罗奔尼撒战争史》 ww.g （1）阅读材料，说明本书写作目的以及作者撰写史书的原则。（4分） 材料二本纪是中国古代纪传体史书中的帝王传记。司马迁说，本纪的撰写应是“网罗天下 1801）对《史记》本纪的认识。 刘知几 列天子行事，以本纪名篇。系日月以成岁时，书君上以显国统。纪者，既以编 年为主，唯叙天子一人。 章学诚 纪传之体，如方圆水火之不可相混，乃是史文体例有然，而非有关于尊卑褒贬 之义法也。（本纪是）一史之纲维。盖为春秋编年纪月，备天道以系人事也。即 帝王一己之事，不关大书特笔例者，皆不当以入纪。 （2）分别说明刘知几和章学诚对《史记》本纪的认识。（6分） 北京高 www.gkaoz) 历史第5页（共8页) 获取更多试题资料及排名分析信息。",
+  "options": [],
+  "answer": "",
+  "explanation": "（1）在曾国的墓葬中发现了随国的信息，表明曾与随是同一个诸侯国的不同称呼， (2 分)解决了文物考古和文献记载不一致的矛盾，弥补了文献史料中对曾国记载的空白。(2 分) （2）西周实行宗法分封制度。由编钟铭文可知，曾国是西周时期分封到随州的诸侯国。 （2分） 西周礼乐文明得到继承和传播。由墓葬出土的礼器及不同文化因素的铜鼎可知，曾国继 承和传播了西周的礼乐制度文明，使不同地区的文化逐渐融合。（2 分） 春秋中期华夏认同的观念已经形成。编钟及其铭文“禹”和“夏”的发掘与释读，表明 曾国对“禹”和“夏”的认同。（2 分）",
+  "material": "",
+  "score": 10.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50155.html",
+  "license": "unknown",
+  "paper_sha256": "e4b66c94f93b7c3741763c0411d30a4751f8b78d937b5b7f3ebb034da76d1fcc",
+  "extract_method": "ocr",
+  "content_hash": "e5dc655bdddc078f21ef9d3aaf7c1e7b5a2e89e52111d8d5372f1eb120f059c0",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "f77f8d71670fa48d103cb68b",
+  "paper_key": "bj-2021-一模-海淀-历史",
+  "paper_title": "2021年北京海淀区高三一模历史试卷",
+  "subject": "历史",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 17,
+  "stem": "《春秋公羊传》是战国时期公羊高阐释《春秋》的著作。《公羊传》倡导“大一统” 主张社会历史是发展变化的。由研究《春秋公羊传》而形成了“春秋公羊学”。 com 材料一春秋公羊学形成于战国时期，兴盛于汉，之后衰微。一直到清朝末年，中国社会的 第二次大转变露出苗头的时候，春秋公羊学又出现了。春秋公羊学两次兴盛分别出现在中国 社会两次大转变时期，汉初出现的春秋公羊学，为第一次大转变的结尾，清末出现的春秋公 羊学，为第二次大转变的开头。1840年鸦片战争前后的先进人物，如魏源、龚自珍都提倡 过春秋公羊学。到“戊戌变法”的时候，康有为更是以春秋公羊学为他的“变法”理论依 据。这不是偶然的，这是因为春秋公羊学的精神是“改制”。康有为复活了所谓“公羊三世 说”：“孔子生当据乱之世。今者大地既通，欧美大变，盖进至升平之世矣。异日大地大小远 近如一，国土既尽，种类不分，风化齐同，则如一而太平矣。孔子已预知之。” —摘编自冯友兰《中国哲学史新编》 材料二董仲舒是春秋公羊学大家，他在《春秋繁露》中说：“若夫大纲、人伦、道理、政治、 教化、习俗、文义尽如故，亦何改哉？故王者有改制之名，无易道之实。”他认为道是不能改 的，“天不变道亦不变”。 （1）简述中国历史上春秋公羊学形成至第一次兴盛的时代背景。（6分） （2）阅读材料，结合所学，说明与董仲舒相比，康有为对于春秋公羊学的解释有什么不同？ 分析其原因。（8分） 北京高考",
+  "options": [],
+  "answer": "",
+  "explanation": "本题为开放性试题，水平等级评分标准如下： 分值 标准 水平四：10 —12 分 准确理解题意，观点提炼完整、正确；论点明确，能够从多角度或多层次， 运用多个史实进行论述，史论结合紧密，没有史实错误；逻辑严密；语言表 达准确。 水平三：7 —9 分 理解题意较准确，观点正确，但不够完整；论点明确，能够从多角度或多层 次，运用多个史实进行论述，史论结合较紧密；逻辑清晰；语言表达较准确。 水平二：4 —6 分 理解题意不够准确；观点正确，但不够完整，只有一个观点；论点明确，能 够从多角度或多层次，运用多个史实进行论述；史论结合较紧密；逻辑清晰； 语言表达较准确。 水平一：1 —3 分 观点正确；论点不够明确，论述角度、层次单一，史实不充分或不准确；史 论结合不紧密；逻辑不清晰；语言表达不准确。 答案示例： 中国共产党成立使得中国革命的面貌焕然一新。旧民主主义革命时期，中国向西方寻求 救国道路，但是没有改变中国的社会性质和国家日益衰败的命运。中国共产党以马克思主义 指导中国革命的实践，第一次提出了明确的反帝反封建的民主革命纲领，为中国革命指明了 方向。（4 分） 中国共产党领导新民主主义革命走向胜利。中国共产党建立后，大力发展工人运动和农 民运动，推动了国民革命运动的兴起；掀起土地革命的风暴，开创了农村包围城市、武装夺 1 2 3 4 5 6 7 8 9 10 11 D B C A C D B A 12 13 14 15 A C A C 取政权道路；成为全民族抗日战争的中流砥柱，领导中国人民战胜了日本帝国主义；领导人 民解放战争，夺取了新民主主义革命的全国性胜利，彻底改变了100 多年来中国积贫积弱， 受人欺凌的悲惨命运，中华民族走上了实现伟大复兴的壮阔道路。（4 分） 中国共产党引领人民取得了社会主义革命和建设的伟大成就。全面确立社会主义制度； 我国开始改变工业落后面貌，建立起独立的比较完整的工业体系和国民经济体系。1978 年 月中共十一届三中全会以来，中国进入改革开放和社会主义现代化建设新时期。中国共产党 领导各族人民，开创并发展了中国特色社会主义，各方面都取得举世瞩目的巨大成就。（4 分）",
+  "material": "",
+  "score": 6.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50155.html",
+  "license": "unknown",
+  "paper_sha256": "e4b66c94f93b7c3741763c0411d30a4751f8b78d937b5b7f3ebb034da76d1fcc",
+  "extract_method": "ocr",
+  "content_hash": "3c651e09ce0fe2b5b7cdbfd9e61f0666030e26b513082b20f96df5990a1bcfc9",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "3d5ab1db6b3f0ffa959abd80",
+  "paper_key": "bj-2021-一模-海淀-历史",
+  "paper_title": "2021年北京海淀区高三一模历史试卷",
+  "subject": "历史",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 18,
+  "stem": "“世纪”与十八世纪（12分） 材料一时间纪年的变迁在中国文化中具有重要的象征意义。通常来说，古代的纪年方法有 两种，一是干支纪年，二是王公皇帝的年号纪年。晚清以降，欧美的纪年方法和时间性质引入国 内，“世纪”的概念即其中之一。其实，“世纪”一词自古存在于中文世界，但其涵义并非指向 时间的单位，而是特指帝王的世系及其相关记载。1900年以后，“世纪”一词逐渐成为指称百 年的标准词汇。1908年出版的《英华大辞典》中首次将“century”对译为“一百年，世纪，周 （泰西以一百年为一周）”。1913年，魏易等翻译的《元代客卿马哥博罗游记》一书中，“世纪” 一词频繁出现，明确指称一百年的时间坐标。带有时间属性的“世纪”一词是二十世纪的产物。 历史第6页（共8页） 最初的十年大量刊登关于“十八世纪”的报道和争鸣。两份媒体均将此时段作为西方历史急 速发展的重要时期。“十八世纪”一词在两种媒体出现最多的年份是1905年和1911年，相关 论述包括历史、政治、经济、军事、外交等各个方面。作为时间单位的“世纪”第一次出现 就与“十八世纪”紧密相连，这并不是偶然的现象。这与十八世纪西方文明高速发展及其向其 他地区扩张有关。因此，“十八世纪”一词自晚清民国以来相当长的一段时间是与欧美历史发 展紧密相随的，似乎成为西方的专属时间。 —摘编自牛贯杰《清末媒体对“十八世纪”的塑造》 （1）20世纪初“世纪” 一词的内涵发生了怎样的变化？（4分） （2）清末媒体为什么要关注“十八世纪”？（8分）",
+  "options": [],
+  "answer": "",
+  "explanation": "（1）西方的发展模式是否普遍适用。（2 分）为什么18 世纪工业革命发生在西欧 而不是中国。（2 分） （2）彭慕兰、王国斌。（1 分） 彭慕兰认为18 世纪的西欧和中国江南在经济上面临相同的问题，也有着同样的可能导 致工业革命的先进因素；江南经济在某些方面领先于西方。王国斌认为不能把西欧的具体的 历史进程抽象成一种普遍的理论模式；中国有自身的发展优势。（4 分） 他们看到中国经济的优势，没有从西方的视角来看问题，突破了欧洲中心论。（1 分）",
+  "material": "",
+  "score": 12.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50155.html",
+  "license": "unknown",
+  "paper_sha256": "e4b66c94f93b7c3741763c0411d30a4751f8b78d937b5b7f3ebb034da76d1fcc",
+  "extract_method": "ocr",
+  "content_hash": "9e2cbecff19fec3e6c9efed106e419c941c2238ef1624acfc2c916c0bd09d044",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "9fca1ae47f72b0fdfa9a9cf2",
+  "paper_key": "bj-2021-一模-海淀-历史",
+  "paper_title": "2021年北京海淀区高三一模历史试卷",
+  "subject": "历史",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 19,
+  "stem": "《兴国调查》（8分） 1930年10月，毛泽东在江西新余县罗坊镇找了来自兴国县刚入伍的农民开了一星期的座谈 会，写成《兴国调查》。调查近4万字。下面是其目录及简介： 序言：介绍了调查背景、内容和方法。因为敌人进攻罗坊，被迫结束了调查。 ka 二本区旧有土地关系：地主富农人数不过百分之六，却占百分之八十的土地。 三斗争中的各阶级：如地主、富农、中农、贫农、雇农、手工工人、商人、游民等。 四现有土地分配状况：详述了分田地、分山林等6个方面。 五土地税（又叫公益费）。 六苏维埃：介绍了区政府、乡政府等人员组成情况并指出存在的弊病。 七农村军事化：介绍赤卫队、少年先锋队、红军预备队等情况。 依据材料结合所学，为《兴国调查》撰写一份说明。（8分）（要求：多角度提取信息，分 析全面，解释合理，不少于150字） www.gka 历史第7页（共8页）",
+  "options": [],
+  "answer": "",
+  "explanation": "（1）（7 分）答案示例： 18 世纪启蒙运动和19 世纪自然科学的发展促进了科学理性精神的传播，达尔文进化论 的诞生与当时的大时代背景密不可分。 达尔文的环球航行是进化论诞生的重要实践基础。在这次航行中，达尔文通过科学观察、 记录比较，发现了不同地区物种的差异，认为生物是适应环境而不断进化的，在吸收拉马克 等人学说的基础上，1859 年出版《物种起源》，标志着进化论的诞生。 进化论的提出，有力挑战了封建神学创世说。 （2）（8 分）答案示例： 甲午战争后，民族危机加深，严复受进化论思想影响，将自然界生物进化的法则运用到 人类社会，主张中国应随着时代的变化进行改革，成为强者；不能沦为殖民者的统治对象， 亡国灭种。 这种主张体现了先进的中国人追求国家富强的强烈爱国心和社会责任感，适应了当时甲 午战争后中国人迫切追求救亡图存道路的思想需求，促进了中国的思想解放，推动了资产阶 级的改良和革命运动。 但是这种将达尔文进化论从自然界运用到人类社会的做法，存在严重的缺陷，并不是一 种科学的理论。",
+  "material": "",
+  "score": 8.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50155.html",
+  "license": "unknown",
+  "paper_sha256": "e4b66c94f93b7c3741763c0411d30a4751f8b78d937b5b7f3ebb034da76d1fcc",
+  "extract_method": "ocr",
+  "content_hash": "8a1d4260b98fa6aca39c53a06e5626d0c789899014e310a692db8dc016f5d8e2",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "043589b1e99580e8f6a583b4",
+  "paper_key": "bj-2021-一模-海淀-历史",
+  "paper_title": "2021年北京海淀区高三一模历史试卷",
+  "subject": "历史",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 20,
+  "stem": "黄金货币与世界经济（11分） 扩大的国家资本流动的需要。1821年，英国正式启动金本位制度，英镑成为英国的标准货币 单位，每英镑含7.32238克纯金。随后，各主要资本主义国家纷纷建立金本位制。金本位时 期是世界经济中工业迅速增长的时期，在这种情形下，有可能通过进行调节而不出现通货贬 值趋势。英国在国际经济中的地位也导致了在国际结算中越来越多地使用英镑作为黄金的补 充。 1931年，德国和英国相继取消了金本位制，1933年，美国也取消了金本位制。接着，各 主要资本主义国家纷纷废除金本位制。黄金退出了国内货币流通领域。此后，英联邦集团、 美元集团、金（本位）集团、德国集团、日元集团等不同货币集团逐步形成。 1944年，依据布雷顿森林体系建立的国际货币制度，美元取得了等同于黄金的地位。各 国货币可以通过美元间接兑换黄金，以国际金汇兑本位制的形式保留了黄金的国际货币地位。 黄金仍然发挥着最终国际货币的职能。 20世纪60年代后半期，由于美国出现了国际收支逆差，人们纷纷抛售美元抢购黄金。 1971年8月，美国政府宣布实行新经济政策，其中包括暂时停止美元兑换黄金。1973年布雷 顿森林体系的金汇兑本位最终解体。1976年，国际货币基金组织成员国达成了“牙买加协议”， 决定推动黄金非货币化。从此黄金失去了作为国际货币的地位。 —摘编自李《论黄金货币地位的演变与前景》 com 以“黄金货币与世界经济”为视角，对材料进行解读。（11分） 北京高 历史第8页（共8页） 关于我们 学校长、老师、家长及考生，引起众多重点高校的关注。 扫码关注获取更多 北京高考在 北京 高考",
+  "options": [],
+  "answer": "",
+  "explanation": "本题为开放性试题，水平等级评分标准如下： 分值 标准 水平三： 6—8 分 体现美国经济地位的变化，并结合史实进行分析，分析全面；史论结合、逻 辑清晰，认识全面准确；有结论，有总结能力。 水平二： 3—5 分 体现美国经济地位的变化，并结合史实进行分析，分析不够全面，史论结合、 逻辑较清晰，无结论。仅从一个方面分析，分析全面，史论结合、逻辑清晰。 水平一： 0—2 分 仅列举史实，没有进行分析、论述。 答案示例： 二战后，西欧国家普遍衰落，美国的经济实力空前膨胀，美国通过建立布雷顿森林体系， 加强了美国在资本主义世界体系中的特权和支配地位，在工业产量、对外贸易和黄金储备方 面都具有优势地位。（3 分） 20 世纪70 年代，战后西方国家经济高速发展的黄金时代结束，发生经济危机，发达国 家进入滞涨的困境。由于西欧联合和日本经济的高速发展，西欧和日本经济实力大大增强， 美国的经济优势逐渐丧失，美国的工业制品和高技术产品面临来自西欧和日本经济的竞争。 各西方国家对美元的关系由固定汇率制转为浮动汇率制，布雷顿森林体系逐渐瓦解。（3 分） 美国经济地位的变化，反映了美国霸主地位的丧失和经济多极化的局面的出现。（2 分） 关于我们 响力的中学升学服务平台。主营业务涵盖：北京新高考、高中生涯规划、志愿填报、强基计 划、综合评价招生和学科竞赛等。 40W+，网站年度流量数千万量级。用户群体立足于北京，辐射全国31 省市。 教育+互联网+大数据”的运营模式，尝试基于大数据理论为广大中学和家长提供新鲜的高 考资讯、专业的高考政策解读、科学的升学规划等，为广大高校、中学和教科研单位提供“衔 接和桥梁纽带”作用。 平台自创办以来，为众多重点大学发现和推荐优秀生源，和北京近百所中学达成合作关 系，累计举办线上线下升学公益讲座数百场，帮助数十万考生顺利通过考入理想大学，在家 长、考生、中学和社会各界具有广泛的口碑影响力 校资源优势，更好的服务全国高中家长和学生。",
+  "material": "",
+  "score": 11.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50155.html",
+  "license": "unknown",
+  "paper_sha256": "e4b66c94f93b7c3741763c0411d30a4751f8b78d937b5b7f3ebb034da76d1fcc",
+  "extract_method": "ocr",
+  "content_hash": "5e08c001f32dc53f207949d0d7e63ecccae1d74221e177dfbc8e26dc2f5c6cee",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "3eaf0dd9c5f78ba59dcf8566",
+  "paper_key": "bj-2021-一模-海淀-地理",
+  "paper_title": "2021年北京海淀区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 1,
+  "stem": "图中邮票反映了 m",
+  "options": [
+   {
+    "key": "A",
+    "text": "立冬是天文四季中冬季的开始，北方地区有储存大白菜的习俗"
+   },
+   {
+    "key": "B",
+    "text": "大雪当日的降雪量为一年中的最大值，适合进行堆雪人的活动"
+   },
+   {
+    "key": "C",
+    "text": "冬至后北京的正午太阳高度逐渐减小，“数九”寒天正式开始"
+   },
+   {
+    "key": "D",
+    "text": "大寒当日长春的白昼时间一年中最短，气温低、风寒效应显著 地理第1页（共8页） 获取更多试题资料及排名分析信息。 物体的温度越高，辐射越强。某校同学通过测量记录地表温度（表1），探究不同下垫面 对地面辐射的影响。据此，回答第2、3题。 单位： 表1地表温度记录表 测量时间 13:00 13:20 13:40 14:00 14:20 实验地点（下垫面类型） 操场 (塑胶地面) 池塘 (水面) 灌木土地 沙坑 (沙地) 草坪 (草地)"
+   }
+  ],
+  "answer": "A",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50157.html",
+  "license": "unknown",
+  "paper_sha256": "deb4b3a9f3064c81ab61e64056fcebb4d96a144abec558a0a7708ef9864cb085",
+  "extract_method": "ocr",
+  "content_hash": "792f689b97f191b6edd44482970fd8e9532363a1139925773ece4f03d1acce19",
+  "section": "选择题",
+  "answer_verified": true,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "081e11d9b01477c8c82bc891",
+  "paper_key": "bj-2021-一模-海淀-地理",
+  "paper_title": "2021年北京海淀区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 2,
+  "stem": "依据表中数据，推测地面辐射从强到弱的排序是",
+  "options": [
+   {
+    "key": "A",
+    "text": "池塘、灌木土地、沙坑"
+   },
+   {
+    "key": "B",
+    "text": "操场、草坪、沙坑"
+   },
+   {
+    "key": "C",
+    "text": "草坪、池塘、灌木土地"
+   },
+   {
+    "key": "D",
+    "text": "操场、沙坑、池塘"
+   }
+  ],
+  "answer": "D",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50157.html",
+  "license": "unknown",
+  "paper_sha256": "deb4b3a9f3064c81ab61e64056fcebb4d96a144abec558a0a7708ef9864cb085",
+  "extract_method": "ocr",
+  "content_hash": "a3d981889b1ad21d1e1a82a6950d907179a0483fe7ffc91a159432f4aae5e2dd",
+  "section": "选择题",
+  "answer_verified": true,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "b431f5642d49b62771bd1fa9",
+  "paper_key": "bj-2021-一模-海淀-地理",
+  "paper_title": "2021年北京海淀区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 3,
+  "stem": "可以提高实验准确性的措施有",
+  "options": [
+   {
+    "key": "A",
+    "text": "每天测量一种下垫面地表温度，最后比较数据"
+   },
+   {
+    "key": "B",
+    "text": "测量塑胶操场不同部位的温度，并计算平均值"
+   },
+   {
+    "key": "C",
+    "text": "同时测量沙坑不同深度的温度，并计算平均值"
+   },
+   {
+    "key": "D",
+    "text": "尽量选择草地的边缘测量温度，以免破坏草坪 老在线 om 梵净山位于贵州省东北部，是地质年龄超过10亿年的巨大变质岩山体，其最高峰海拔 2572米，完整保存了亚热带山岳生态系统和显著的生物多样性。图2为梵净山标志景观“蘑 菇石”。据此，回答第4、5题。 www.g"
+   }
+  ],
+  "answer": "B",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50157.html",
+  "license": "unknown",
+  "paper_sha256": "deb4b3a9f3064c81ab61e64056fcebb4d96a144abec558a0a7708ef9864cb085",
+  "extract_method": "ocr",
+  "content_hash": "861ec3342e68d0be82a856c99783d0bf692eb779b1719880aa3188eefb9a10a4",
+  "section": "选择题",
+  "answer_verified": true,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "f56c5fb14284147c73c83a3a",
+  "paper_key": "bj-2021-一模-海淀-地理",
+  "paper_title": "2021年北京海淀区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 4,
+  "stem": "“蘑菇石”景观的形成过程可能为",
+  "options": [
+   {
+    "key": "A",
+    "text": "固结成岩一变质作用一地壳抬升一风化侵蚀"
+   },
+   {
+    "key": "B",
+    "text": "地壳抬升一风化侵蚀一固结成岩一岩浆活动"
+   },
+   {
+    "key": "C",
+    "text": "变质作用一岩浆活动一风化侵蚀一地壳抬升"
+   },
+   {
+    "key": "D",
+    "text": "岩浆活动一地壳抬升一风化侵蚀一变质作用"
+   }
+  ],
+  "answer": "A",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50157.html",
+  "license": "unknown",
+  "paper_sha256": "deb4b3a9f3064c81ab61e64056fcebb4d96a144abec558a0a7708ef9864cb085",
+  "extract_method": "ocr",
+  "content_hash": "4948570d832458accdeae503eea627e2a254b702669c2c6158751a56b723b597",
+  "section": "选择题",
+  "answer_verified": true,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "392b47efa0cff97ca16233dc",
+  "paper_key": "bj-2021-一模-海淀-地理",
+  "paper_title": "2021年北京海淀区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 5,
+  "stem": "在同纬度地区中，梵净山生物多样性显著的主要自然 原因有 ①人类活动干预少 ②纬度低，水热条件好 ③山体庞大，高差大 ④土壤类型多样 图2",
+  "options": [
+   {
+    "key": "A",
+    "text": "①②"
+   },
+   {
+    "key": "B",
+    "text": "③④"
+   },
+   {
+    "key": "C",
+    "text": "①③"
+   },
+   {
+    "key": "D",
+    "text": "②④ 地理第2页（共8页） 获取更多试题资料及排名分析信息。 1954年，川藏（成都一拉萨）、青藏（西宁一拉萨）两条公路通车，结束了西藏没有公路 的历史。2018年，川藏铁路开始铺轨，这是继青藏铁路之后的又一条进藏铁路。据此，回答第"
+   }
+  ],
+  "answer": "B",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50157.html",
+  "license": "unknown",
+  "paper_sha256": "deb4b3a9f3064c81ab61e64056fcebb4d96a144abec558a0a7708ef9864cb085",
+  "extract_method": "ocr",
+  "content_hash": "bb5acc214250554cf62879793afa0f3488c853cf52dbc0d89b6f84518ccf0314",
+  "section": "选择题",
+  "answer_verified": true,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "729f41b68eef80a5a06ab336",
+  "paper_key": "bj-2021-一模-海淀-地理",
+  "paper_title": "2021年北京海淀区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 6,
+  "stem": "7题。 北京高 6.与川藏公路沿线相比，青藏公路沿线地区",
+  "options": [
+   {
+    "key": "A",
+    "text": "跨越我国地势阶梯多"
+   },
+   {
+    "key": "B",
+    "text": "海拔高差大"
+   },
+   {
+    "key": "C",
+    "text": "受滑坡、泥石流威胁小"
+   },
+   {
+    "key": "D",
+    "text": "热量条件好"
+   }
+  ],
+  "answer": "C",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50157.html",
+  "license": "unknown",
+  "paper_sha256": "deb4b3a9f3064c81ab61e64056fcebb4d96a144abec558a0a7708ef9864cb085",
+  "extract_method": "ocr",
+  "content_hash": "f35b9c584c2d47210c83367f4c20d5b5ad4cb19adac0007c4226a7e43db71b33",
+  "section": "选择题",
+  "answer_verified": true,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "199a946540f949f0896baa57",
+  "paper_key": "bj-2021-一模-海淀-地理",
+  "paper_title": "2021年北京海淀区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 7,
+  "stem": "川藏铁路的建设 ①因沿线自然条件改善，修建难度变小 ②资金和先进技术是重要保障 ③利于沿线地区的精准扶贫和经济发展 ④完善了西南地区铁路交通网",
+  "options": [
+   {
+    "key": "A",
+    "text": "①②③"
+   },
+   {
+    "key": "B",
+    "text": "①②④"
+   },
+   {
+    "key": "C",
+    "text": "①③④"
+   },
+   {
+    "key": "D",
+    "text": "②③④ 2020年初，“共饮最暖云咖啡”成为网络热门话题。武汉一家咖啡店每天免费为附近的 医护人员送咖啡，众多网友通过网络下单，表达对这份善意和这场战“疫”的支持。这也体现 了服务业与现代技术的结合。据此，回答第8、9题。"
+   }
+  ],
+  "answer": "D",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50157.html",
+  "license": "unknown",
+  "paper_sha256": "deb4b3a9f3064c81ab61e64056fcebb4d96a144abec558a0a7708ef9864cb085",
+  "extract_method": "ocr",
+  "content_hash": "491ddc10fb62ee127e22ca8fe25b42edeb90b6a09c88d74c37e4478f1a7b9a78",
+  "section": "选择题",
+  "answer_verified": true,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "b470c586e5c45f5158ad085e",
+  "paper_key": "bj-2021-一模-海淀-地理",
+  "paper_title": "2021年北京海淀区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 8,
+  "stem": "城市中的咖啡店",
+  "options": [
+   {
+    "key": "A",
+    "text": "均分布于城市中心，为全市居民服务"
+   },
+   {
+    "key": "B",
+    "text": "分散在城市中，多与其它服务业集聚"
+   },
+   {
+    "key": "C",
+    "text": "主要分布在高速公路沿线，服务郊区"
+   },
+   {
+    "key": "D",
+    "text": "为利用便捷网络，集中于中央商务区"
+   }
+  ],
+  "answer": "B",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50157.html",
+  "license": "unknown",
+  "paper_sha256": "deb4b3a9f3064c81ab61e64056fcebb4d96a144abec558a0a7708ef9864cb085",
+  "extract_method": "ocr",
+  "content_hash": "5351ed30d20b1d3d0b1cbd624f03d3572ecaf9f404541bee70fb7ceda215cf99",
+  "section": "选择题",
+  "answer_verified": true,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "2841074f75728abb12820fd4",
+  "paper_key": "bj-2021-一模-海淀-地理",
+  "paper_title": "2021年北京海淀区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 9,
+  "stem": "现代服务业受",
+  "options": [
+   {
+    "key": "A",
+    "text": "交通的影响逐渐减弱"
+   },
+   {
+    "key": "B",
+    "text": "市场的影响逐渐减弱 烤在线 .com"
+   },
+   {
+    "key": "C",
+    "text": "科技的影响逐渐增强"
+   },
+   {
+    "key": "D",
+    "text": "距离的影响逐渐增强 口罩产业链主要包括原材料生产、制造及销售等环节。读图3“我国口罩产业链空间分布 示意图”，回答第10、11题。 ww.g 内⑧古 京 新 鲁 豫 翼 鲁 苏 鄂 豫 苏 沪 皖 浙 沪 贵 企业数量（家） 企业数量 （家） 鄂浙 企业数量（家） 10-15 桂 粤 70以上 围粤 30-g 1-9 1-2 (a）原材料企业 (b）口罩制造企业 (c）大型口罩销售企业 图3 地理第3页（共8页） 获取更多试题资料及排名分析信息。"
+   }
+  ],
+  "answer": "C",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50157.html",
+  "license": "unknown",
+  "paper_sha256": "deb4b3a9f3064c81ab61e64056fcebb4d96a144abec558a0a7708ef9864cb085",
+  "extract_method": "ocr",
+  "content_hash": "bad3e26434cb45a366b625b69509973ade6bf1a9c627602cb685f70fc93473fb",
+  "section": "选择题",
+  "answer_verified": true,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "7e037c114ce4c64b15e6a1f8",
+  "paper_key": "bj-2021-一模-海淀-地理",
+  "paper_title": "2021年北京海淀区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 10,
+  "stem": "我国口罩产业链最成熟的地区是",
+  "options": [
+   {
+    "key": "A",
+    "text": "东北地区"
+   },
+   {
+    "key": "B",
+    "text": "京津冀地区"
+   },
+   {
+    "key": "C",
+    "text": "长江三角洲地区"
+   },
+   {
+    "key": "D",
+    "text": "珠江三角洲地区 5m"
+   }
+  ],
+  "answer": "C",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50157.html",
+  "license": "unknown",
+  "paper_sha256": "deb4b3a9f3064c81ab61e64056fcebb4d96a144abec558a0a7708ef9864cb085",
+  "extract_method": "ocr",
+  "content_hash": "7af68cb7a6fc3b2d9283d08d09ac3cc4e1a8964fb1a6320578e065595dd051c1",
+  "section": "选择题",
+  "answer_verified": true,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "9f158b42f1b05c1ec12900c0",
+  "paper_key": "bj-2021-一模-海淀-地理",
+  "paper_title": "2021年北京海淀区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 11,
+  "stem": "豫、皖地区口罩制造企业数量多的主导条件是因为当地",
+  "options": [
+   {
+    "key": "A",
+    "text": "原材料丰富"
+   },
+   {
+    "key": "B",
+    "text": "劳动力充足"
+   },
+   {
+    "key": "C",
+    "text": "技术水平高"
+   },
+   {
+    "key": "D",
+    "text": "能源充足 肯尼亚的鲜花经过20小时飞行就能到达中国消费者手中。肯尼亚地处赤道附近的东非高 原，盛产玫瑰、康乃馨、百合等温带花卉。近年来，肯尼亚出口至中国、韩国、日本等亚洲国 家的鲜花量逐年增长。据此，完成第12、13题。"
+   }
+  ],
+  "answer": "B",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50157.html",
+  "license": "unknown",
+  "paper_sha256": "deb4b3a9f3064c81ab61e64056fcebb4d96a144abec558a0a7708ef9864cb085",
+  "extract_method": "ocr",
+  "content_hash": "8f67e660bcf2deab8ca321dcd31d6bef8aa14945bd667665797683acaa324ac1",
+  "section": "选择题",
+  "answer_verified": true,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "b6d826b07a40190aba5bdbe6",
+  "paper_key": "bj-2021-一模-海淀-地理",
+  "paper_title": "2021年北京海淀区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 12,
+  "stem": "肯尼亚盛产温带花卉的主要原因是",
+  "options": [
+   {
+    "key": "A",
+    "text": "纬度低、海拔高"
+   },
+   {
+    "key": "B",
+    "text": "温差大、降水多 考在线 .com"
+   },
+   {
+    "key": "C",
+    "text": "环境好、旱涝少"
+   },
+   {
+    "key": "D",
+    "text": "土层厚、土壤肥"
+   }
+  ],
+  "answer": "A",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50157.html",
+  "license": "unknown",
+  "paper_sha256": "deb4b3a9f3064c81ab61e64056fcebb4d96a144abec558a0a7708ef9864cb085",
+  "extract_method": "ocr",
+  "content_hash": "0995656ccd21b91645b4310bfa80fd808da66ed9cf2131ba0262711310c0938a",
+  "section": "选择题",
+  "answer_verified": true,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "98201afa1a19b02ea0a6704a",
+  "paper_key": "bj-2021-一模-海淀-地理",
+  "paper_title": "2021年北京海淀区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 13,
+  "stem": "肯尼亚出口亚洲鲜花量增长，反映出两地地域联系的变化有 ①交通运输条件改善 ②商贸信息日益通达 ③鲜花品质不断提高 ④耕作灌溉技术进步",
+  "options": [
+   {
+    "key": "A",
+    "text": "①②"
+   },
+   {
+    "key": "B",
+    "text": "③④"
+   },
+   {
+    "key": "C",
+    "text": "①③"
+   },
+   {
+    "key": "D",
+    "text": "②④ 斐济是21世纪海上丝绸之路上的重要国家之一。读图4，回答第14、15题。 群 岛 海田 图例 珊瑚礁 河流 1265m x.com 山峰 887m 维提岛 95km 178° www.gkaoz 180° 图4"
+   }
+  ],
+  "answer": "A",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50157.html",
+  "license": "unknown",
+  "paper_sha256": "deb4b3a9f3064c81ab61e64056fcebb4d96a144abec558a0a7708ef9864cb085",
+  "extract_method": "ocr",
+  "content_hash": "69eb7e8e03a09bc27e81fd46e53ce00fb1fb08ed3f3748db77278dfd5ba21334",
+  "section": "选择题",
+  "answer_verified": true,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "a974434a16417ae8f2e3eea3",
+  "paper_key": "bj-2021-一模-海淀-地理",
+  "paper_title": "2021年北京海淀区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 16,
+  "stem": "阅读图文资料，回答下列问题。 一方有难，八方支援。在疫情面前， www.g 我们是一个命运共同体，无论东南西北， 我们都向着你一—湖北，内蒙古的牛奶、 山东的馒头和饺子、新疆的苹果、江西的 蔬莱，还有三江平原“黑土地”上的大 米..... om （1）简述三江平原种植水稻的有利自然条 件。（4分） www.gka 图例 国界 省界 1月14日，国内基因测序龙头企业深 湖北省 圳某公司成功研发和制作了新型冠状病毒 5001,000km 武汉 核酸检测试剂盒，提供给疾控部门和医疗 图5 机构使用。（2020-01-14澎湃新闻） 支包括服务、研发、供应链等部门的特别保障组，确保湖北省卫健委视频会议系统正常运行。 (2020-01-26湖北之声） N.g 后热腾腾的煲仔饭和鲜蔬汤就可以送到面前了。这是广东省某企业自主研发的产品，可帮助 解决隔离点人员的用餐难题。（2020-02-18广州日报） （2）广东省发挥自身优势为湖北省提供大量物资支援。依据资料，概括上述物资的突出特 点，简述广东省发展该类产业的优势条件。（3分） 武汉一直都是英雄的城市，这座有“九省通衢”之称的历史名城，今天正在力争成为继北 京、上海、广州、深圳之后的当代中国“第五城”。 （3）简述武汉竞争中国“第五城”的地理优势条件。（5分） 地理第5页（共8页） 获取更多试题资料及排名分析信息。",
+  "options": [],
+  "answer": "",
+  "explanation": "（共12分） (1）(4分） 地势平坦，（1分）雨热同期（或：夏季气温高、降水多），（1分）土壤肥沃，（1 分）灌溉水源充足。（1分) (2）(3分） 特点：产品科技含量高。（1分） 优势条件（三选二，2分）：数量众多的科技人员，较充足的研发资金，产业链完善（或 产业协作配套好）。 (3）（5分） 地理位置优越；淡水资源丰富，生态环境良好；水陆交通发达；人才众多（科技力量雄 厚），现代产业集聚；文化底蕴深厚（发展历史悠久）。（每项1分，共5分。）",
+  "material": "",
+  "score": 4.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50157.html",
+  "license": "unknown",
+  "paper_sha256": "deb4b3a9f3064c81ab61e64056fcebb4d96a144abec558a0a7708ef9864cb085",
+  "extract_method": "ocr",
+  "content_hash": "bf35711dfff4dc2104a0b2f2f4bb6c2e4e39f299b30ed8b450c5b5161cc04f0e",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "fabc017db42491308f44b3af",
+  "paper_key": "bj-2021-一模-海淀-地理",
+  "paper_title": "2021年北京海淀区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 17,
+  "stem": "阅读图文资料，回答下列问题。 考线 资水是洞庭湖重要的支流，从上游至下游地貌 .com 依次为高山峡谷、山间盆地、低山丘陵、冲积平原。 桃江 表2冷水江、桃江水文站资料 平均流量 平均含沙量 降水量 (/) (kg/m²) (mm) 水江 冷水江 1448 桃江 1833 图例 水文站 \".流域界线 (1)比较图6中两水文站所测河流水文特征的差异， A山脉 任选一个水文站分析其原因。（6分） 60km WwV 图6 科学家对资水流域的年输沙量进行了监测（图7）。研究表明，该时段流域内降水量年际 变化小，河流径流量无明显变化趋势。 输沙量/104t 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015（年） 图7资水流域的年输沙量 (2）据图说出资水流域年输沙量的变化特征，并推测变化原因。（5分） 洞庭湖流域是长江中游重要的生态保护区。 (3）简述洞庭湖的生态效益。（3分） 地理第6页(共8页) 获取更多试题资料及排名分析信息。 和该日北京气温变化（b）。读图回答下列问题。 80° 100° 110° 120° 130° 246810121416（时） (b) -1020-等压线←天气系统 图例 雨、雪 六级以上风区 图8 （1）绘制甲地气流运动示意图，判断甲地天气特征并说明理由。（5分） （2）据图分析北京气温变化的原因。（4分） (3）简述此次天气过程对华北平原农业生产的影响。（3分）",
+  "options": [],
+  "answer": "",
+  "explanation": "(共14分) 京高考在线 x.com (1）(6分) 差异：(3分) 冷水江比桃江 冷水江比桃江的径流量小（1分）；冷水江比桃江的含沙量大（1分） 的流速快。(1分) WW 原因：(3分） 冷水江位于中（上）游，汇水面积小（1分），流经山区，（地势起伏大，）河流落差 大（1分），河流侵蚀搬运能力强（1分），年降水量较少（1分），因此径流量较小，流 速较快，含沙量较大。（4选3) 或：桃江位于下游，汇水面积大（1分），流经平原，（地势平坦，）河流落差小（1 分）侵蚀搬运能力弱、泥沙沉积（1分），年降水量较多（1分），因此径流量较大，流速 较慢，含沙量较小。（4选3） （2）（5分） 特征：（3分） 总体呈动态减少趋势，（1分）2000年后输沙量更低（明显降低），（1分）年际变化 大。 （1分）（或：年输沙量最大值出现在1970年，最小值出现在2010年。） 原因（三选二，2分）：修水库，植树造林等改善生态环境；降水有年际变化。 (3）（3分） 调节河流径流量、减少洪涝灾害，（1分）调节局部气候，（1分）维护生物多样性。 (1分） 地理参考答案第1页（共2页） 获取更多试题资料及排名分析信息。",
+  "material": "",
+  "score": 6.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50157.html",
+  "license": "unknown",
+  "paper_sha256": "deb4b3a9f3064c81ab61e64056fcebb4d96a144abec558a0a7708ef9864cb085",
+  "extract_method": "ocr",
+  "content_hash": "74b729d2d4242f1a9b4c31216af65516e5e783faef350dafd6c5e8c02ba3e70b",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "39e41fb098f061608a107ade",
+  "paper_key": "bj-2021-一模-海淀-地理",
+  "paper_title": "2021年北京海淀区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 19,
+  "stem": "阅读某地理老师的游记，回答下列问题。 在线 om 7月10日晴 今天来到了位于横断山 区的云南省怒江族自治 州，看到了极具地方特色的 “溜索过江”。 这种交通方式在怒江有悠久的历史，主要是解决当地群众到对岸赶 集购物、上班上学等日常活动需要。以前索道采用藤条，现在都已经换 成了钢索。近些年，河流两岸桥梁的建设力度加大，乘坐溜索过江的人 越来越少了。 图9 地理第7页(共8页） 获取更多试题资料及排名分析信息。 （1）说出“溜索过江”这种交通方式的特点。（3分) x.com kaozx （3）有人建议将“溜索过江”开发为当地的旅游项目，你是否同意？提出你的观点，并阐述 理由。（4分）",
+  "options": [],
+  "answer": "",
+  "explanation": "（共10分） (1）(3分) 运量小；运距短；安全性差；每根溜索只能单向运输。（4选3，每点1分) (2）(3分） 横断山区地形地质条件复杂（山高谷深），陆路交通不便（1分）；江阔流急，水运交 通不便（1分）；溜索过江建设成本较低（建设难度小）/聚落分散，运输需求分散。（1分） 考在线 (3）（4分） zX.com 支持开发。（1分） 理由：溜索过江独特性、非凡性特点突出；区域旅游资源丰富多样，“溜索过江”与其 组合好，吸引力强；该旅游项目具有参与性（惊险刺激），吸引力强：有利于吸引游客，增 加就业与居民收入，促进当地经济发展；利于保护当地的民俗风情和文化特色。（5选3) 不支持开发。（1分） 理由：溜索过江安全性低（缺乏应急保护措施），容易发生危险；距离客源市场远，交 通不便；当地环境承载力小，旅游接待设施有限；吸引大量游客前往可能破坏当地生态环境； 大量游人可能会破坏溜索设施。（5选3）",
+  "material": "",
+  "score": 3.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50157.html",
+  "license": "unknown",
+  "paper_sha256": "deb4b3a9f3064c81ab61e64056fcebb4d96a144abec558a0a7708ef9864cb085",
+  "extract_method": "ocr",
+  "content_hash": "bb193e79c6ba7981bc2dbd08982fa60f526de32bb490632e244efab087bcde0c",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "d314a35682c70a70115c92d8",
+  "paper_key": "bj-2021-一模-海淀-地理",
+  "paper_title": "2021年北京海淀区高三一模地理试卷",
+  "subject": "地理",
+  "region": "北京",
+  "district": "海淀区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 20,
+  "stem": "阅读图文资料，回答下列问题。 2020年2月，爆发于阿拉伯半岛的沙漠蝗虫迁飞到印度半岛的巴基斯坦、印度等国，所 经之地损失巨大。研究表明，此次沙漠蝗虫的爆发始于2018年，据气象观测记录，当年的5 月和10月，两场气旋风暴给红海沿岸带来了大量降水。 沙漠蝗虫成长需要经历虫卵一若虫一成虫阶段，炎热干旱的环境有利于蝗虫产卵，蝗虫 卵孵化、成长时间与土壤的温度和湿度密切相关（图10）。 虫卵孵化所器时间（天） 若虫到成虫所需时间（天） 考在线 .com 平均土壤温度(℃) 平均土增湿度(%) 图10 WwW （1）结合资料，分析沙漠蝗虫2018年在阿拉伯半岛爆发的原因。（4分） （2）列举防治蝗虫灾害的措施。（3分） 地理第8页（共8页） 获取更多试题资料及排名分析信息。",
+  "options": [],
+  "answer": "",
+  "explanation": "(共7分) (1）(4分） 阿拉伯半岛位于热带沙漠气候区，炎热干旱，为蝗虫产卵提供有利条件，（1分）；气温高 （或：土壤温度高）使虫卵变成若虫的时间缩短（1分）；当年异常降水，增加土壤湿度， 使若虫到成虫的时间较短；（1分）降水多有利于沙漠植被的生长，为蝗虫提供了充足的食 物来源。（1分) (2）(3分） 加强监测预报；（1分）生物措施；（1分）喷洒药物（1分）等措施。（言之有理即 可得分。） 地理参考答案第2页（共2页） 获取更多试题资料及排名分析信息。 关于我们 学校长、老师、家长及考生，引起众多重点高校的关注。 扫码关注获取更多 北京高考在 北京 高考",
+  "material": "",
+  "score": 4.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50157.html",
+  "license": "unknown",
+  "paper_sha256": "deb4b3a9f3064c81ab61e64056fcebb4d96a144abec558a0a7708ef9864cb085",
+  "extract_method": "ocr",
+  "content_hash": "6e7cc2f80436e2d53952eaa8b258a3b021051a2486764b5d0108f6b77d26a0bc",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
   "id": "7bb9725676a249843189115f",
   "paper_key": "bj-2021-一模-丰台-语文",
   "paper_title": "2021年北京丰台区高三一模语文试卷",
@@ -39161,7 +41209,601 @@
   "quality": "text-garbled"
  },
  {
-  "id": "0a5eaf84482ae01dd3a08750",
+  "id": "d459187a4f1e2b13b1ae1904",
+  "paper_key": "bj-2021-一模-石景山-生物",
+  "paper_title": "2021年北京石景山区高三一模生物试卷",
+  "subject": "生物",
+  "region": "北京",
+  "district": "石景山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 1,
+  "stem": "人体内含有多种多样的蛋白质，每种蛋白质",
+  "options": [
+   {
+    "key": "A",
+    "text": "都含有 20 种氨基酸Z"
+   },
+   {
+    "key": "B",
+    "text": "都具有一定的空间结构"
+   },
+   {
+    "key": "C",
+    "text": "都能催化特定的生物化学反应"
+   },
+   {
+    "key": "D",
+    "text": "都能在细胞内发挥作用"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50525.html",
+  "license": "unknown",
+  "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
+  "extract_method": "ocr",
+  "content_hash": "61e5f0dd9bf6eff98f9d2f1b86623c30fd69c4d851d4cbb88866181428132782",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "1417bbf9af78325859231d8b",
+  "paper_key": "bj-2021-一模-石景山-生物",
+  "paper_title": "2021年北京石景山区高三一模生物试卷",
+  "subject": "生物",
+  "region": "北京",
+  "district": "石景山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 2,
+  "stem": "最早被发现的细胞器是1769年科学家在草履虫细胞内观察到的颗粒样结构一刺丝泡。 当草履虫受到外界刺激时，刺丝泡尖端的膜与细胞膜发生融合，随后刺丝泡发射至体 外抵御捕食者。下列有关说法不正确的是",
+  "options": [
+   {
+    "key": "A",
+    "text": "刺丝泡膜与细胞膜、线粒体膜的成分基本一致"
+   },
+   {
+    "key": "B",
+    "text": "刺丝泡中的蛋白质由核糖体合成"
+   },
+   {
+    "key": "C",
+    "text": "草履虫是原生生物，无成形的细胞核"
+   },
+   {
+    "key": "D",
+    "text": "刺丝泡膜与细胞膜的融合与膜的流动性有关"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50525.html",
+  "license": "unknown",
+  "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
+  "extract_method": "ocr",
+  "content_hash": "6b6baaef0b27cb00ac3e9a0862b8098708a8784d6fb66f1249a3fa6817177146",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "8cfbb6ab0a4d2eccc5d4508c",
+  "paper_key": "bj-2021-一模-石景山-生物",
+  "paper_title": "2021年北京石景山区高三一模生物试卷",
+  "subject": "生物",
+  "region": "北京",
+  "district": "石景山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 3,
+  "stem": "下列物质跨膜运输的实例中，属于主动运输的是",
+  "options": [
+   {
+    "key": "A",
+    "text": "细胞质基质中的H+进入溶酶体内"
+   },
+   {
+    "key": "B",
+    "text": "吞噬细胞吞噬病原体"
+   },
+   {
+    "key": "C",
+    "text": "性激素进入靶细胞"
+   },
+   {
+    "key": "D",
+    "text": "神经元兴奋时Na+内流"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50525.html",
+  "license": "unknown",
+  "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
+  "extract_method": "ocr",
+  "content_hash": "3be26753234111759a6265124d6492a64aa946123868ef9fdd043cf91591a6a6",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "e24679beef419a7c83c1ad35",
+  "paper_key": "bj-2021-一模-石景山-生物",
+  "paper_title": "2021年北京石景山区高三一模生物试卷",
+  "subject": "生物",
+  "region": "北京",
+  "district": "石景山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 4,
+  "stem": "下列关于细胞呼吸的叙述，不正确的是",
+  "options": [
+   {
+    "key": "A",
+    "text": "植物在黑暗中可进行有氧呼吸，也可进行无氧呼吸"
+   },
+   {
+    "key": "B",
+    "text": "有氧呼吸过程中[H]在线粒体内膜上与氧结合成水"
+   },
+   {
+    "key": "C",
+    "text": "有氧呼吸和无氧呼吸的产物分别是CO2和乳酸"
+   },
+   {
+    "key": "D",
+    "text": "植物光合作用和呼吸作用过程中都可以合成ATP 高三统一测试生物学试卷第1页共10页"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50525.html",
+  "license": "unknown",
+  "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
+  "extract_method": "ocr",
+  "content_hash": "313b86f55c7ffa623784ee7df236359be0d29a99b5991340b2c53b427ec18940",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "b24c36fff50bb072c6d1f986",
+  "paper_key": "bj-2021-一模-石景山-生物",
+  "paper_title": "2021年北京石景山区高三一模生物试卷",
+  "subject": "生物",
+  "region": "北京",
+  "district": "石景山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 5,
+  "stem": "下图为动物细胞有丝分裂过程模式图。下列相关描述正确的是",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50525.html",
+  "license": "unknown",
+  "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
+  "extract_method": "ocr",
+  "content_hash": "2eeddc431ba13f69fb039bdfd72e6058c811a082b49a007510c77fbb71bc6897",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "e92c789ccaf2d5baf5cd2587",
+  "paper_key": "bj-2021-一模-石景山-生物",
+  "paper_title": "2021年北京石景山区高三一模生物试卷",
+  "subject": "生物",
+  "region": "北京",
+  "district": "石景山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 8,
+  "stem": "下图表示获得玉米多倍体植株采用的技术流程。下列有关说法不正确的是 ka 诱导处理 筛选、鉴定 发芽的种子 幼苗 多倍体 高三统一测试生物学试卷第2页共10页",
+  "options": [
+   {
+    "key": "A",
+    "text": "可用秋水仙素或低温诱导处理发芽的种子"
+   },
+   {
+    "key": "B",
+    "text": "可用显微镜观察根尖细胞染色体数目的方法鉴定多倍体"
+   },
+   {
+    "key": "C",
+    "text": "得到的多倍体植株一般具有茎杆粗壮、果穗大等优点"
+   },
+   {
+    "key": "D",
+    "text": "将得到的多倍体植株进行花药离体培养又可得到二倍体"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50525.html",
+  "license": "unknown",
+  "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
+  "extract_method": "ocr",
+  "content_hash": "979f4f2dfd10d3caf845d328e329523c229b857e35fcf3181fa1e3f2fda05dec",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "bbb8b1cf3ceb5bb86e7826aa",
+  "paper_key": "bj-2021-一模-石景山-生物",
+  "paper_title": "2021年北京石景山区高三一模生物试卷",
+  "subject": "生物",
+  "region": "北京",
+  "district": "石景山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 9,
+  "stem": "杂合雌果蝇在形成配子时，同源染色体的非姐妹染色单体间的相应片段发生对等交 换，导致新的配子类型出现，其原因是在配子形成过程中发生了",
+  "options": [
+   {
+    "key": "A",
+    "text": "基因重组"
+   },
+   {
+    "key": "B",
+    "text": "染色体重复"
+   },
+   {
+    "key": "C",
+    "text": "染色体易位"
+   },
+   {
+    "key": "D",
+    "text": "染色体倒位"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50525.html",
+  "license": "unknown",
+  "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
+  "extract_method": "ocr",
+  "content_hash": "fe8e7066a5cfd270538d6480e55cec7987cb978bdba86a999cb0092f61494635",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "8e4047dadebaf95d08575e4e",
+  "paper_key": "bj-2021-一模-石景山-生物",
+  "paper_title": "2021年北京石景山区高三一模生物试卷",
+  "subject": "生物",
+  "region": "北京",
+  "district": "石景山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 10,
+  "stem": "云南多山、多河谷，环境往往相互隔离。科学家在研究云南稻种资源的基础上，提 出了亚洲栽培稻分类体系，将亚洲稻分为“亚洲栽培稻一亚种一生态群一生态型一 品种”5级。该体系形成过程中没有发挥作用的是",
+  "options": [
+   {
+    "key": "A",
+    "text": "基因突变9"
+   },
+   {
+    "key": "B",
+    "text": "自然选择"
+   },
+   {
+    "key": "C",
+    "text": "地理隔离"
+   },
+   {
+    "key": "D",
+    "text": "生殖隔离"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50525.html",
+  "license": "unknown",
+  "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
+  "extract_method": "ocr",
+  "content_hash": "7ad8221c570a05fa6438d45308c76e2830d0cee8bc1c12421b4d1fe4c19ffb2e",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "e7ae3182725ff9abeed21767",
+  "paper_key": "bj-2021-一模-石景山-生物",
+  "paper_title": "2021年北京石景山区高三一模生物试卷",
+  "subject": "生物",
+  "region": "北京",
+  "district": "石景山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 11,
+  "stem": "下列关于生长素及其作用的叙述，正确的是",
+  "options": [
+   {
+    "key": "A",
+    "text": "植物的生长是由单侧光引起的"
+   },
+   {
+    "key": "B",
+    "text": "植物不同器官对生长素的敏感程度不相同"
+   },
+   {
+    "key": "C",
+    "text": "生长素由苗尖端产生并促进尖端的伸长"
+   },
+   {
+    "key": "D",
+    "text": "不同浓度的生长素对植物同一器官的作用效果一定不同"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50525.html",
+  "license": "unknown",
+  "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
+  "extract_method": "ocr",
+  "content_hash": "84fba3f029600be25e8580f8efee8ffaf53207bb5532626fe25e1f6fcb7c9fb5",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "c7491cb1b1d8e90b8eccc411",
+  "paper_key": "bj-2021-一模-石景山-生物",
+  "paper_title": "2021年北京石景山区高三一模生物试卷",
+  "subject": "生物",
+  "region": "北京",
+  "district": "石景山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 12,
+  "stem": "现有一组对胰岛素不敏感（注射胰岛素后血糖浓度无明显变化）的高血糖小鼠，为验证 com 阿司匹林能恢复小鼠对胰岛素的敏感性，使小鼠的血糖浓度恢复正常，现将上述小鼠随 机均分成若干组，下表表示各组处理方法及实验结果。下列相关叙述正确的是 组别 处理 胰岛素 方法 阿司匹林 ？ 实验结果 （血糖浓度） 高于正常 高于正常 注：“+”和“”分别表示适量添加和不添加",
+  "options": [
+   {
+    "key": "A",
+    "text": "第4组应选择血糖浓度正常的小鼠"
+   },
+   {
+    "key": "B",
+    "text": "第1组的实验结果为正常"
+   },
+   {
+    "key": "C",
+    "text": "第3组的实验结果为正常"
+   },
+   {
+    "key": "D",
+    "text": "两种药物也可以饲喂的方式添加 高三统一测试生物学试卷第3页共10页"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50525.html",
+  "license": "unknown",
+  "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
+  "extract_method": "ocr",
+  "content_hash": "37f42f372f1bddc657dd76219586105a6b97e203580db2dfc809bc979213ce1b",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "dc332c3e6d37abdda5fcdf50",
+  "paper_key": "bj-2021-一模-石景山-生物",
+  "paper_title": "2021年北京石景山区高三一模生物试卷",
+  "subject": "生物",
+  "region": "北京",
+  "district": "石景山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 13,
+  "stem": "矮牵牛花瓣紫色的深浅由花青素的含量高低决定，花青素由查耳酮合酶（CHS）催 化合成。为获得紫色更深的矮牵牛，科研人员将CHS基因导入野 生型紫花矮牵牛叶肉细胞中，得到的转基因植株花色反而出现了 外源 浅紫色。检测CHS基因的转录水平，得到左图所示电泳图谱（2",
+  "options": [
+   {
+    "key": "A",
+    "text": "用不同的限制酶处理含CHS基因的DNA和运载体 内源"
+   },
+   {
+    "key": "B",
+    "text": "转基因植株中内源CHS基因的转录水平明显低于野生型"
+   },
+   {
+    "key": "C",
+    "text": "转基因植株内外源CHS基因的转录均被抑制"
+   },
+   {
+    "key": "D",
+    "text": "没有获得紫色更深的植株是因为CHS基因没有成功转入"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50525.html",
+  "license": "unknown",
+  "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
+  "extract_method": "ocr",
+  "content_hash": "c6893eddcbcb753e3b6fd326b66c40176ed651fedb7af67f51608412ddd3df18",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "7c5784b2feac53a68bb63e0a",
+  "paper_key": "bj-2021-一模-石景山-生物",
+  "paper_title": "2021年北京石景山区高三一模生物试卷",
+  "subject": "生物",
+  "region": "北京",
+  "district": "石景山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 14,
+  "stem": "丹顶鹤是世界珍稀濒危鸟类，科学家研究了江苏北部地区丹顶鹤越冬种群数量及栖 息地分布动态变化，获得如下数据。下列有关叙述不正确的是 WwM 1 200 +种群数量 1 000 古栖息地数量 种群数量(个) 16 14210 86 42:0 栖息地数量(个) 200+ 1980 1985 1990 1995 2000 2005 2010 2015 2020 com 年份",
+  "options": [
+   {
+    "key": "A",
+    "text": "2015年丹顶鹤的种群数量约为图中最大值的一半"
+   },
+   {
+    "key": "B",
+    "text": "2000年后，栖息地数量是影响丹顶鹤越冬种群数量变化的重要因素"
+   },
+   {
+    "key": "C",
+    "text": "建立自然保护区是保护丹顶鹤最有效的措施"
+   },
+   {
+    "key": "D",
+    "text": "若用标志重捕法调查丹顶鹤的种群数量，标记物脱落会造成调查结果偏小"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50525.html",
+  "license": "unknown",
+  "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
+  "extract_method": "ocr",
+  "content_hash": "c448c4fe2e0495c06ef27d6c554ff5eb45d4b83b9033be107920b19c0f862d13",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "2a326d0cb962772eae7dabdf",
+  "paper_key": "bj-2021-一模-石景山-生物",
+  "paper_title": "2021年北京石景山区高三一模生物试卷",
+  "subject": "生物",
+  "region": "北京",
+  "district": "石景山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 15,
+  "stem": "下列有关细胞工程的叙述，正确的是",
+  "options": [
+   {
+    "key": "A",
+    "text": "核移植得到的克隆动物，其线粒体DNA来自供卵母体"
+   },
+   {
+    "key": "B",
+    "text": "动物细胞培养的理论基础是动物细胞核具有全能性"
+   },
+   {
+    "key": "C",
+    "text": "骨髓瘤细胞经免疫处理，可直接获得单克隆抗体"
+   },
+   {
+    "key": "D",
+    "text": "PEG是促细胞融合剂，可直接诱导植物细胞融合 W 高三统一测试生物学试卷第4页共10页 第二部分（共70分） 答，在试卷上作答无效。"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50525.html",
+  "license": "unknown",
+  "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
+  "extract_method": "ocr",
+  "content_hash": "ed371d6ba5715b354b877f24f42ba85901014db8e70d4d03b723ebe7726ecec3",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "736d5bc3a6b4093f0771774d",
   "paper_key": "bj-2021-一模-石景山-生物",
   "paper_title": "2021年北京石景山区高三一模生物试卷",
   "subject": "生物",
@@ -39173,25 +41815,72 @@
   "exam_type": "一模",
   "type": "非选择题",
   "q_no": 16,
-  "stem": "(1)低于 CO2 的吸收量下降 暗(碳)反应 (2)无水乙醇 碳酸钙 (3)地下生物量占总生物量的比值 在过度放牧区,牲畜对植物地上部分进行大量消耗。此时,植物将更多的同化产物 分配给地下部分,可以为放牧过后植物的再生长提供物质和能量的储备(2 分) (4)划区域管理 规定适宜的载畜量 实行轮牧制度(答案合理给分) (5)二 能量变化(3分):牛羊啃食羊草后,一部分羊草中的能量以粪便形式被分解者通过呼 吸作用利用,其余的被牛羊同化。牛羊同化的能量,一部分被呼吸作用以热 量形式散失;一部分用于自身生长发育和繁殖等,后来被下一营养级摄入; 还有一部分遗体残骸被分解者通过呼吸作用利用。 或以流程图形式表示:",
+  "stem": "草原植物在长期过度放牧下表现为植株变矮、叶片变短等矮化现象。为探究 这种矮化现象的原因，研究人员随机采集了围封禁牧区来源羊草(NG)和过度放牧区来源 羊草(GZ)的根茎若干进行实验室培养，一段时间后发现过度放牧区来源羊草无性繁殖后 代植株依旧存在矮化现象。研究人员进一步测定了两种羊草后代的净光合速率和气孔导 度（即气孔开放程度）。 0e0 气孔导度（molm1） 北京高 净光合速率 www.g NG GZ NGGZ （1）据图可知：过度放牧区来源羊草净光合速率要 围封禁牧区来源羊草。其主 要原因是：过度禁牧区来源羊草植株叶片的气孔导度下降，导致 ，进而 导致__反应速率下降。 （2）要确定影响净光合速率的因素，还应测定两种羊草的叶片叶绿素含量，提取叶绿素 所用的溶剂是 ，为了防止提取过程中叶绿素被破坏，还应加入 tom （3）研究人员还测量了两种羊草地上、地下生物量（有机物量）的分配比，得到的结果 如下图所示。 北京 www.gkao 生 一地上 地下 物量分配比 800 2 % NG GZ 据图可知：过度放牧区来源羊草 显著高于围封禁牧区来源羊草，植物 这种生存策略的意义是o （4）根据上述研究，请你提出一条合理利用草原牧草资源的措施。 （5）牛羊在草原生态系统的营养结构中属于第 营养级，请写出能量流经该营养级 时发生的主要变化。 高三统一测试生物学试卷第5页共10页",
   "options": [],
   "answer": "",
   "explanation": "",
   "material": "",
-  "score": 2.0,
+  "score": 0.0,
   "source": "gaokzx",
   "source_url": "https://www.gaokzx.com/c/202104/50525.html",
   "license": "unknown",
   "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
-  "extract_method": "text",
-  "content_hash": "c3159b04398c648fc2d1de47b2272d74fb1df4c578c37d56194d1f0c7ad01cc1",
+  "extract_method": "ocr",
+  "content_hash": "86ba9cf2a04ff44978b1414bca00c55114f442521c906f7536c513c474bfa46a",
   "section": "非选择题",
   "answer_verified": false,
-  "needs_image": false,
-  "quality": "text"
+  "needs_image": true,
+  "quality": "ocr"
  },
  {
-  "id": "d29cc49ce650418264567d9a",
+  "id": "84694367e3a8662f8ea31090",
+  "paper_key": "bj-2021-一模-石景山-生物",
+  "paper_title": "2021年北京石景山区高三一模生物试卷",
+  "subject": "生物",
+  "region": "北京",
+  "district": "石景山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 17,
+  "stem": "抑郁症是一种情感性精神障碍疾病，患者某些脑神经元兴奋性下降。近年来 传递兴奋的突触结构局部放大示意图，请据图回答问题。 北京高 细胞X 神经递质 蛋白M 神经递质 细胞Y 北京高考在 降解酶 （1） ①表示 细胞X释放神经递质的方式是 （2）蛋白M是Y细胞膜上的一种 ，若图中的神经递质与蛋白M结合，会导 致细胞Y兴奋，比较结合前后细胞Y的膜内Na+浓度变化和电位的变 化： （3）单胺氧化酶是单胺类神经递质的降解酶。单胺氧化酶抑制剂（MAOID）是目前 一种常用抗抑郁药。据图分析，该药物能改善抑郁症状的原因是： （4）根据上述资料及突触的相关知识，下列药物开发思路中，也能改善抑郁症状的 com 有_ 北京高",
+  "options": [
+   {
+    "key": "A",
+    "text": "促进突触小泡释放神经递质"
+   },
+   {
+    "key": "B",
+    "text": "阻止神经递质与蛋白M结合"
+   },
+   {
+    "key": "C",
+    "text": "促进兴奋传导到脊髓产生愉悦感"
+   },
+   {
+    "key": "D",
+    "text": "降低突触后神经元的静息膜电位绝对值"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50525.html",
+  "license": "unknown",
+  "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
+  "extract_method": "ocr",
+  "content_hash": "050b921df4608e29b523de41867d57299b4f6de33ab842eb104508b2f6704497",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "643bdf8d4c8d3c905b656495",
   "paper_key": "bj-2021-一模-石景山-生物",
   "paper_title": "2021年北京石景山区高三一模生物试卷",
   "subject": "生物",
@@ -39203,25 +41892,25 @@
   "exam_type": "一模",
   "type": "非选择题",
   "q_no": 18,
-  "stem": "(1)无限增殖、细胞形态结构改变(2 分) (2) 翻译(2 分) (3)对照组处理:敲除外泌体A 中miR-650,与胰腺癌细胞N 混合培养至细胞刚刚长满 培养板,随后进行划痕实验。(2 分) 预期结果:24h 后无细胞区域的宽度与0h 差别不大 (4)低氧条件下的胰腺癌细胞外泌体 ...A.的.miR ...-.650 ...进入周围常氧胰腺癌细胞 ...........N.中.,与 VHL 基因mRNA 的部分序列结合,抑制 ..VHL ...的表达 ...,解除了 ...VHL ...对.HIF ...-.1a ..的降 .. 解作用 ...,HIF-1a 含量升高,激活低氧信号通路,促进 ...........N.的转移 ...。(4 分)",
+  "stem": "生物体的大部分细胞都可分泌外泌体，它是内含生物大分子的小膜泡，研究 人员发现胰腺癌细胞的扩散转移与外泌体相关。为了给胰腺癌的综合治疗提供方向和 思路，科学家进行了相关的研究。 （1）请写出题干中未提到的癌细胞的两个特点。 （2）肿瘤内部处于低氧条件下的胰腺癌细胞会分泌外泌体，内含一段小分子RNA（称 为miR-650)，外泌体可将miR-650传递给周围常氧条件下胰腺癌细胞N。miR-650 可与细胞N中某些mRNA结合，从而导致mRNA被降解或其 过程被抑 高三统一测试生物学试卷第6页共10页 制。 在线 具体做法：将细胞N与外泌体混合培养至细胞刚刚长满培养板时，在培养板上均 匀划两条直线。划线后，用培养液洗去两线之间的细胞并在显微镜下拍照；然后 放入培养箱中继续培养24小时后，取出培养板在同一位置拍照，对比细胞的迁 移情况，结果见下图。请写出该实验应设置的另一组及其结果。 一无细胞区域 北京高考在缘 无细胞区域 kaozx （4）目前已知的细胞缺氧调控机制是：缺氧情况下，细胞中的HIF-1α（低氧诱导因子） 会进入细胞核激活缺氧调节基因。这一基因能进一步激活多种基因的表达，引起 系列反应，如：促进氧气的供给与传输、促进细胞的转移等。而正常氧条件时， HIF-1α会与VHL蛋白结合，最终被蛋白酶体降解。具体机制如下图所示。 VHL蛋白 VHL蛋白 常氧时 OHHIF-1a 京高考在线 OH OH HIF-1a Q OH 被降解 HIF-1a 低氧时 HIF-1a 低氧调节基因 研究发现，与低氧胰腺癌外泌体混合培养后的常氧胰腺癌细胞N中HIF-1α水 平明显升高。请结合上述研究，推测低氧胰腺癌细胞促进其周围的常氧胰腺癌细 胞N转移的机理。 +15 m",
   "options": [],
   "answer": "",
   "explanation": "",
   "material": "",
-  "score": 2.0,
+  "score": 0.0,
   "source": "gaokzx",
   "source_url": "https://www.gaokzx.com/c/202104/50525.html",
   "license": "unknown",
   "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
-  "extract_method": "text",
-  "content_hash": "bfb91502a0ebdc92009d4ba6a340dca0bbaf088466045463e4c7a2c8deb5c3bc",
+  "extract_method": "ocr",
+  "content_hash": "4266b83b49deaee89a8275ec732e4fe9ae8f380d9df02ed12c435cbd57befc68",
   "section": "非选择题",
   "answer_verified": false,
-  "needs_image": false,
-  "quality": "text-garbled"
+  "needs_image": true,
+  "quality": "ocr"
  },
  {
-  "id": "71c518b9b6db007fea99db7c",
+  "id": "07bb73d0c55da5fa9d48b87f",
   "paper_key": "bj-2021-一模-石景山-生物",
   "paper_title": "2021年北京石景山区高三一模生物试卷",
   "subject": "生物",
@@ -39233,25 +41922,25 @@
   "exam_type": "一模",
   "type": "非选择题",
   "q_no": 19,
-  "stem": "(1)CAR-T 细胞可以表达癌细胞抗原的受体,可以直接找到癌细胞并进行杀灭(2 分) (2)采用逆转录病毒载体 ..将能合成特定受体 ....的基因 ..片段插入 ..T .细胞基因组 .....中,使之表达 出相应受体。(3 分) (3)不能,CAR-T细胞属于已分化的细胞,不能继续分裂增殖。(3分) (4)寻找在多种实体瘤中高表达的特异性抗原; 开发用于促进CAR-T 细胞在体内扩增的RNA 疫苗(答案合理给分,2 分)",
+  "stem": "阅读下面的材料，完成（1）～（4）题。 CAR-T细胞疗法上市2周年了，它改变了癌症治疗吗？ 2017年8月30日，美国食品药品管理局宣布由诺华公司制造的CAR-T疗 法细胞治疗产品tisagenlecleucel正式获批上市，用于治疗25岁以下急性淋巴细 胞白血病的复发性或难治性患者，由此CAR-T细胞治疗正式进入到人们的视线 当中。目前CAR-T疗法上市已经超过了2周年，它对癌症的治疗产生了怎样的 高三统一测试生物学试卷第7页共10页 影响呢？ CAR-T细胞的全称是： 英文 翻译 简写 Chimeric 嵌合 C Antigen 抗原 A Receptor 受体 R CAR-T细胞疗法是嵌合了抗原受体的T细胞疗法。因为癌细胞会表达和正常细 胞不同的抗原，所以在实验室里制备可结合这些抗原的受体，让它在T细胞中表达， 从而可以直接找到癌细胞并进行杀灭。相当于给T细胞加了一个可以定向导航追踪 癌细胞的GPS。 当然在这个过程中，除了需要找到癌细胞的特征信息并传递到T细胞内让它 可以识别肿瘤细胞，我们还需要在体外对改造后的T细胞进行培养，使其达到足 够的数量，再将其回输到患者体内进行治疗。这就是CAR-T细胞疗法的整个过 程。 截止到目前，全球范围内获批的2款CAR-T细胞治疗产品治疗的癌症都属于 血液瘤范畴，指的是血液细胞发生癌变引起的肿瘤。最新的研究结果显示：在B 细胞急性淋巴瘤患者中，很多患者在接受单次细胞治疗回输后便获得了长期有效 的持续缓解；在接受治疗后，总体有60%～93%的患者获得了完全缓解。而传统 疗法在血液瘤中仅有不到50%的缓解率。 然而这些并不是CAR-T细胞疗法的最终归宿。血液肿瘤只占恶性肿瘤中的很 小一部分，目前对成年人健康危害最大的还是肺癌、胃癌等实体肿瘤。由贝勒医 学院主导的一项针对神经母细胞瘤的治疗中 27%的患者得到了完全缓解：另 一项在肝癌、胰腺癌和结直肠癌中的研究中，肿瘤缩小的患者达到了13%，这表 明CAR-T细胞疗法在实体肿瘤治疗中也有一定的作用，但仍需要进一步的优化。 相对于血液肿瘤而言 实体肿瘤中CAR-T细胞疗法需要解决的难题主要有： 实体瘤特异性靶点数量有限、CAR-T细胞无法有效浸润到实体瘤中、CAR-T细 胞的持久性不足等。 （1）CAR-T细胞与人体中原有的T细胞相比，其优越性在于 （2）CAR-T细胞的制备离不开转基因技术，请简要说出制备CAR-T细胞的基本技术 流程。 （3）对CAR-T细胞进行体外培养，能否直接用动物细胞培养的方法？请说出理由。 高三统一测试生物学试卷第8页共10页 （4）根据文中所提到的实体肿瘤治疗效果差的原因，请你提出一条改进措施， 斑的突变体，坏死斑的产生基本不影响植株生长，反而会增强植株对病原菌抗性。 （1）将某野生型粳稻品种用甲基磺酸乙酯（EMS） 获得类病斑突变体，收获 突变体种子，在温室内种植，随着叶片发育逐渐出现病斑直至布满叶片，收获 种子，连续多年种植，其叶片均产生类病斑，表明该类病斑表型可以 （2）突变体与野生型植株 产生的F植株表型均与野生型一致，且F2 中野生型和突变型植株的比例符合3：1。表明突变体的类病斑表型受常染色体上 的 控制。 om （3）对F2群体中148个隐性单株和 进行序列分析，发现1号染色体上A基 因的非模板链发生了单碱基突变，如下图所示，据此推测突变体出现类病斑的 （可能用到的密码子：AUG：起始密码子；CAA：谷氨酰胺；GAA：谷氨酸； CUU：亮氨酸；UAA：终止密码子；AUU：异亮氨酸） 野生型：ATG CAAGAAACA- 突变体：ATG CAATAAACA- ↑ com 1号碱基 271号碱基 高高考在线 （4）进一步实验发现，与野生型相比，类病斑突变体对稻瘟病和白叶枯病的抗性均 有所提高。提取细胞中的总RNA，在 酶的作用下合成cDNA，然后以防 御反应相关基因P1、P2、P3的特有序列作 进行定量PCR，检测这三种 基因的表达量，结果如下图所示。推测突变体抗性提高的原因是 野生型 ■突变体 表 达量 基因P1基因P2基因P3 高三统一测试生物学试卷第9页共10页 途，如促进伤口愈合，缓解关节炎等，也常与一些抗菌成分混合制成抗菌药物，近 年来受到研究人员的关注。 （填“定向” 或“不定向”）改变，人们迫切希望发现新结构的抗菌化合物。 （2）前期研究发现油的水溶性较差，所以不能在 培养基上出现清晰的 抑菌圈，故将鹊油与乙醇和Tween80（一种乳化剂）混合均匀制成乳液。为确 定油的最小抑菌浓度（MIC），研究人员进行了以下实验： ①将大肠杆菌、金黄色葡萄球菌和沙门氏菌分别 到LB培养基中，在37C 摇床条件下培养。摇床振荡培养的原因是 ②一段时间后将上述培养基稀释为一定浓度的菌悬液，加入不同稀释浓度的 油乳液并振荡混匀，培养20h后测定菌体的存活状况，结果如下表。 菌体生长情况 油浓度/% 大肠杆菌 金黄色葡萄球菌 沙门氏菌 + + + + + + 高考在线 + + + + 注：“+”表示有菌生长；“一”表示无菌生长。 上述结果显示： （3）常见抗菌药物青霉素的抗菌机理是抑制细菌细胞壁的合成。有人提出油可 增大菌体细胞膜的通透性。已知多数细菌体内存在β一半乳糖苷酶，可催化乳糖 水解生成 和半乳糖，邻硝基酚一B半乳糖苷（ONPG）是一种乳糖类似 物，可进入菌体，被β一半乳糖苷酶水解为邻硝基苯酚（一种黄色物质）。分光 光度计可定量检测溶液中某种物质的含量。 为确定油能否增大菌体细胞膜通透性，请你根据上述原理写出实验思路。 高三统一测试生物学试卷第10页共10页 石景山区2020年高三统一测试 生物学试卷答案及评分参考 一、选择题：（每题2分，共30分） 1-5BCACA 6-10BCDAD 11-15 BCBDA 二、非选择题（除标注外，每空1分，共70分） 16.(13分） （1）低于CO2的吸收量下降暗（碳）反应 （2）无水乙醇 碳酸钙 （3）地下生物量占总生物量的比值 在过度放牧区，牲畜对植物地上部分进行大量消耗。此时，植物将更多的同化产物 分配给地下部分，可以为放牧过后植物的再生长提供物质和能量的储备（2分） （4）划区域管理 规定适宜的载畜量 实行轮牧制度（答案合理给分） （5）二 能量变化（3分)：牛羊啃食羊草后，一部分羊草中的能量以粪便形式被分解者通过呼 吸作用利用，其余的被牛羊同化。牛羊同化的能量，一部分被呼吸作用以热 量形式散失；一部分用于自身生长发育和繁殖等，后来被下一营养级摄入； 还有一部分遗体残被分解者通过呼吸作用利用。 或以流程图形式表示： 北京高考 呼吸作用 散失 用于牛羊 牛羊同化 次级消费 牛羊摄入 的生长发 作用 育和繁殖 者摄入 遗体 粪便 残骸 呼吸作用 分解者利用 散失 17.(11分） （1）突触前膜 胞吐 （2）受体（2分） 膜内Na+浓度由低变高，膜内电位由负变正（2分） （3）MAOID 能抑制单胺氧化酶活性，阻止脑内单胺类神经递质降解，提高了突触后神 经元的兴奋性，起抗抑郁作用（3分） （4）AD（2分） 高三统一测试生物学答案第1页共2页 18．(11分） （1）无限增殖、细胞形态结构改变（2分） (2）翻译(2分） （3）对照组处理：敲除外泌体A中miR-650，与胰腺癌细胞N混合培养至细胞刚刚长满 培养板，随后进行划痕实验。(2分） w.gkac 预期结果：24h后无细胞区域的宽度与0h差别不大 （4）低氧条件下的胰腺癌细胞外泌体A的miR-650进入周围常氧胰腺癌细胞N中，与 VHL基因mRNA的部分序列结合，抑制VHL的表达，解除了VHL对HIF-1a的降 解作用，HIF-1a含量升高，激活低氧信号通路，促进N的转移。（4分） 19.(10分） （1）CAR-T细胞可以表达癌细胞抗原的受体，可以直接找到癌细胞并进行杀灭（2分） （2）采用逆转录病毒载体将能合成特定受体的基因片段插入T细胞基因组中，使之表达 出相应受体。（3分） （3）不能，CAR-T细胞属于已分化的细胞，不能继续分裂增殖。（3分） （4）寻找在多种实体瘤中高表达的特异性抗原； 开发用于促进CAR-T细胞在体内扩增的RNA疫苗（答案合理给分，2分）",
   "options": [],
   "answer": "",
   "explanation": "",
   "material": "",
-  "score": 2.0,
+  "score": 13.0,
   "source": "gaokzx",
   "source_url": "https://www.gaokzx.com/c/202104/50525.html",
   "license": "unknown",
   "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
-  "extract_method": "text",
-  "content_hash": "959d265f787e015b2034e54084122b44f3e1c6dfd1062d3059a8d713f076e709",
+  "extract_method": "ocr",
+  "content_hash": "6b45bf062669a07615cc594137edf46cf15e336f155fe94eedf597324448a54a",
   "section": "非选择题",
   "answer_verified": false,
-  "needs_image": false,
-  "quality": "text-garbled"
+  "needs_image": true,
+  "quality": "ocr"
  },
  {
-  "id": "3e0f5f2771bc49c91e1891c3",
+  "id": "12a869f37aec27d3d99773b9",
   "paper_key": "bj-2021-一模-石景山-生物",
   "paper_title": "2021年北京石景山区高三一模生物试卷",
   "subject": "生物",
@@ -39263,7 +41952,7 @@
   "exam_type": "一模",
   "type": "非选择题",
   "q_no": 21,
-  "stem": "(1)定向 (2)固体 接种 供氧、目的菌与营养物质充分接触(2分) 大肠杆菌对鸸鹋油较为敏感,最小抑菌浓度约为0.00625%,对金黄色葡萄球菌 的最小抑菌浓度约为0.0125%,并且鸸鹋油对沙门氏菌没有表现出抑菌性(3 分) (3)葡萄糖 将大肠杆菌(或其他细菌)置于培养液中培养一段时间,再加入ONPG 和一定浓度 (≥MIC)的鸸鹋油,对照组不加鸸鹋油。一段时间后利用分光光度计测量邻硝基苯 酚的量,记录并比较。(3 分)",
+  "stem": "（1）定向 （2）固体 ①接种 供氧、目的菌与营养物质充分接触（2分） ② ）大肠杆菌对油较为敏感，最小抑菌浓度约为0.00625%，对金黄色葡萄球菌 的最小抑菌浓度约为0.0125%，并且油对沙门氏菌没有表现出抑菌性（3 分） （3）葡萄糖 将大肠杆菌（或其他细菌）置于培养液中培养一段时间，再加入ONPG和一定浓度 （≥MIC）的油，对照组不加油。一段时间后利用分光光度计测量邻硝基苯 酚的量，记录并比较。（3分) 高三统一测试生物学答案第2页共2页",
   "options": [],
   "answer": "",
   "explanation": "",
@@ -39273,12 +41962,12 @@
   "source_url": "https://www.gaokzx.com/c/202104/50525.html",
   "license": "unknown",
   "paper_sha256": "857578c549805c2687a7e8de01483fecbdbdb4e3a34e0737b8787d0875504daa",
-  "extract_method": "text",
-  "content_hash": "e92316f0b011c669f914670b5550b800d4c649445b83ac140bcc828209c6e2ad",
+  "extract_method": "ocr",
+  "content_hash": "848000d2295553f1b6873357801bea576ed3b38f2db47b52da9cab2a76d89760",
   "section": "非选择题",
   "answer_verified": false,
   "needs_image": false,
-  "quality": "text"
+  "quality": "ocr"
  },
  {
   "id": "2e98edcfa8a99a2d5f7c96bd",
@@ -43291,6 +45980,464 @@
   "answer_verified": false,
   "needs_image": true,
   "quality": "text-garbled"
+ },
+ {
+  "id": "f03982beeeae05c72fcbf905",
+  "paper_key": "bj-2021-一模-房山-政治",
+  "paper_title": "2021年北京房山区高三一模政治试卷",
+  "subject": "政治",
+  "region": "北京",
+  "district": "房山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "选择题",
+  "q_no": 2,
+  "stem": "“瓜连的蔓子，蔓子连的根。老百姓连的共产党，共产党连的是人民。”在位于西北黄土 高原的延安、既是革命圣地。更是革命者的精神家园。来自五湖四海的革命青年和有识之 在这里，中国共产党人引领民族独立和人民解放事业实现了伟大转折，我们的党走向成熟， 我们的军队走向壮大，我们的事业不断从胜利走向新的胜利。材料说明。 1在延安第一次实现了马列主义同中国实际相结合的历史性飞跃 ②马克思主义和革命必胜的理想信念，引领着中华民族前进的方向 ③延安精神激励中国共产党人在艰苦的斗争环境中书写时代传奇 4延安精神对当代的经济建设，廉政建设等仍有伟大的现实意义",
+  "options": [
+   {
+    "key": "A",
+    "text": "①3 com"
+   },
+   {
+    "key": "C",
+    "text": "②③ B 1④"
+   },
+   {
+    "key": "D",
+    "text": "②④"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50651.html",
+  "license": "unknown",
+  "paper_sha256": "e4e15fc8ba013a2497e25d754fd20aad36d49370c2391a0bf1f97c9b3e69436e",
+  "extract_method": "ocr",
+  "content_hash": "e264c2bb5fd8156f983427c2dcc22ed0227a3cffd23d4e209453845e1a30e8b1",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "1ae449bc4948ec9659c66986",
+  "paper_key": "bj-2021-一模-房山-政治",
+  "paper_title": "2021年北京房山区高三一模政治试卷",
+  "subject": "政治",
+  "region": "北京",
+  "district": "房山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "选择题",
+  "q_no": 3,
+  "stem": "文化是社会的风向标、晴雨表，它记录着百姓的生活状态和精神面貌，也反映了时代 的微观切面与宏大气象。在党和政府的关怀与扶持下，“农家书屋”用书香打造出乡 村的靓丽“风景线”，这里不仅成了信息资源的集散地，更是村里大人、孩子探求知 识的精神家园，更为当地脱贫攻坚、创新发展注人了强劲动力。书香满屋，硕果累累。 “农家书屋”的建立有利于 ①开展健康有益的文化活动，丰富人们精神生活 ②大力发展文化产业，保障人民基本文化权益 ③优化农村基本公共文化服务，提高村民素养 高考在线 ④提供多样化文化产品，满足人们各种文化需求",
+  "options": [
+   {
+    "key": "A",
+    "text": "①③"
+   },
+   {
+    "key": "B",
+    "text": "①④"
+   },
+   {
+    "key": "C",
+    "text": "②③"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50651.html",
+  "license": "unknown",
+  "paper_sha256": "e4e15fc8ba013a2497e25d754fd20aad36d49370c2391a0bf1f97c9b3e69436e",
+  "extract_method": "ocr",
+  "content_hash": "bf000d59349dbe81bfb4d8ee35a69953fe9720c9c56aff9f0634ce799dd4cb47",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "bccdf484bda065dab80d0f33",
+  "paper_key": "bj-2021-一模-房山-政治",
+  "paper_title": "2021年北京房山区高三一模政治试卷",
+  "subject": "政治",
+  "region": "北京",
+  "district": "房山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 4,
+  "stem": "习近平总书记在一系列重要讲话中，大量引用中国古代经典名句，为中国政坛带来习 习清风，给人们以深刻的思想启迪、精神激荡与文化自信。总书记告诚全党：要坚持 底线思维，时刻牢记“安而不忘危，存而不忘亡，治而不忘乱”（《周易·系辞下》）。 下列古诗文中与此句蕴含的哲理一致的是 ①天下之势不盛则衰，天下之治不进则退（南宋吕祖谦《东莱博议·葵丘之会》） ②万物并育而不相害，道并行而不相（《礼记·中庸》） ③日出江花红胜火春来江水绿如蓝（白居易《忆江南》） 4纵有良法美意，非其人而行之，反成弊政（胡居仁《居业录》）",
+  "options": [
+   {
+    "key": "A",
+    "text": "①③"
+   },
+   {
+    "key": "B",
+    "text": "①④"
+   },
+   {
+    "key": "C",
+    "text": "②③"
+   },
+   {
+    "key": "D",
+    "text": "②④"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50651.html",
+  "license": "unknown",
+  "paper_sha256": "e4e15fc8ba013a2497e25d754fd20aad36d49370c2391a0bf1f97c9b3e69436e",
+  "extract_method": "ocr",
+  "content_hash": "64a41f91f3a237e2b4c66108d53842043547290114bda73d07f6d012beeccc85",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "ca8e2fee9b6e2686634be918",
+  "paper_key": "bj-2021-一模-房山-政治",
+  "paper_title": "2021年北京房山区高三一模政治试卷",
+  "subject": "政治",
+  "region": "北京",
+  "district": "房山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 5,
+  "stem": "北京2022年冬奥会和冬残奥会体育图标设计以霞光红为底色，寓意日出东方，代 表着热情和希望。以中国汉字为灵感来源，以篆刻艺术为主要呈现形式，将冬季运动 元素与中国传统文化巧妙结合，方寸之间气象万千，既传达跨越千年的悠久传统与 生动神韵，又展现出冬季运动挑战自我、追求卓越理念和愿景、这一图标设计反映出 vww.g 短道速滑 速度滑冰 花样滑冰 冰球 京高考 www.gkao 跳台滑雪 越野滑雪 北欧两项 自由式滑雪 空中技巧",
+  "options": [
+   {
+    "key": "A",
+    "text": "突破思维定式，坚持客观与主观具体的历史的统一"
+   },
+   {
+    "key": "B",
+    "text": "辩证的否定是事物发展的源泉，通过“扬弃”促进了新事物产生"
+   },
+   {
+    "key": "C",
+    "text": "联系的观点看问题，根据需要将中国传统文化与奥运理念建立了新的联系"
+   },
+   {
+    "key": "D",
+    "text": "发挥意识主动创造性，是实现冬季运动元素与中国传统文化巧妙结合的重要条件"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50651.html",
+  "license": "unknown",
+  "paper_sha256": "e4e15fc8ba013a2497e25d754fd20aad36d49370c2391a0bf1f97c9b3e69436e",
+  "extract_method": "ocr",
+  "content_hash": "6dbe264af3ff97f377c12109a02131613ca40a3b3c8e7eb0b6f45fa708ae4bb2",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "ea987f94710a693c98959fc9",
+  "paper_key": "bj-2021-一模-房山-政治",
+  "paper_title": "2021年北京房山区高三一模政治试卷",
+  "subject": "政治",
+  "region": "北京",
+  "district": "房山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 6,
+  "stem": "《训俭示康》有言：“吾心独以俭素为美”，节俭不仅是一种美德，也是一种生活美 学。近年来，“断舍离”的概念被不少年轻人推崇，“断”就是不购买不需要的东西； “舍”就是舍弃多余没用的东西；“离”就是脱离对物质的迷恋，把身边“不需要、 不适合、不舒服”的东西替换为“需要、适合、舒服”的东西。追求简约适度的生活 体现了 ①社会意识的变化本质上是人反映方式的变化 ②有什么样的社会意识就有什么样的反映对象 ③价值观对人们的行为具有驱动和导向作用 ④社会意识的变化根源于社会生活实践的变化 WWW",
+  "options": [
+   {
+    "key": "A",
+    "text": "①② 民搬迁，艰苦奋斗，过上美好生活的故事。对此，下列观点正确的是 ①发挥文艺工作者的文化创造主体作用，用真实的故事和情节打动人 ②党员干部要坚定理想信念，发挥党员示范带头作用，在奋斗中奏响时代最强音 ③美好生活需要在实践中实现，我们要在价值选择基础上做出正确的价值判断 4脱贫彰显了社会主义制度的优越性，人民能够形成脱贫攻坚的共同意志、共同行动"
+   },
+   {
+    "key": "B",
+    "text": "①③"
+   },
+   {
+    "key": "C",
+    "text": "②④"
+   },
+   {
+    "key": "D",
+    "text": "③④"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50651.html",
+  "license": "unknown",
+  "paper_sha256": "e4e15fc8ba013a2497e25d754fd20aad36d49370c2391a0bf1f97c9b3e69436e",
+  "extract_method": "ocr",
+  "content_hash": "1ac0c62351aafa00ba69f92a86d7284b329ab1dfad699d12ce1895380637d07b",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "37220524c4e900cf3b86bf22",
+  "paper_key": "bj-2021-一模-房山-政治",
+  "paper_title": "2021年北京房山区高三一模政治试卷",
+  "subject": "政治",
+  "region": "北京",
+  "district": "房山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 9,
+  "stem": "全国人民代表大会“代表通道”采访，向来是媒体关注的信息大餐。代表们根据记者提 出的问题接受采访，在中外媒体前亮出“好声音”，讲述履职故事 2021年在“代表 通道”采访活动中，14名来自基层的代表讲述的生动故事广受好评。基层人大代表“走 通道”接受采访有助于 ①人大代表反映基层群众的建议和心声 ②赋予人大代表更多职权，提高代表们的素质 ③提升代表履职能力，是人民民主的生动写照 4保证人大代表成为国家权力机关的组成人员 WV",
+  "options": [
+   {
+    "key": "A",
+    "text": "GD"
+   },
+   {
+    "key": "B",
+    "text": "①③"
+   },
+   {
+    "key": "C",
+    "text": "②④"
+   },
+   {
+    "key": "D",
+    "text": "③④ 高三政治试卷第4页（共10页） 更新改版劳动保障维权二维码可以 wwW ①更加畅通劳动者维权通道，为维护劳动者权益提供更好的服务 ②规范劳动用工行为，提高用工单位维护劳动者权益的自觉性 ③节约劳动者时间和精力，使维权更方便快捷 ④增强劳动者法律维权意识.消除不理性维权现象 .co"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50651.html",
+  "license": "unknown",
+  "paper_sha256": "e4e15fc8ba013a2497e25d754fd20aad36d49370c2391a0bf1f97c9b3e69436e",
+  "extract_method": "ocr",
+  "content_hash": "cdf61de2f6e8f6bdbf05af29a38f6c2bbdceb9a856eb3fa2ad416d8e183dfaa7",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "519730c5cb7f28292d9db7d5",
+  "paper_key": "bj-2021-一模-房山-政治",
+  "paper_title": "2021年北京房山区高三一模政治试卷",
+  "subject": "政治",
+  "region": "北京",
+  "district": "房山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 11,
+  "stem": "智能农机田间走， 术与农业生产、经营、管理和服务全产业链融合，为传统农业提质增效提供了现代化 解决方案。智慧农业",
+  "options": [
+   {
+    "key": "A",
+    "text": "提升了农业科技水平，提高农业供给质量"
+   },
+   {
+    "key": "B",
+    "text": "确立了农业的基础地位、筑牢发展的基点"
+   },
+   {
+    "key": "C",
+    "text": "改进了农业生产工具，提高农业产品价格 高考在线"
+   },
+   {
+    "key": "D",
+    "text": "调整了农村生产关系，消除城乡发展差异 ozx.com"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50651.html",
+  "license": "unknown",
+  "paper_sha256": "e4e15fc8ba013a2497e25d754fd20aad36d49370c2391a0bf1f97c9b3e69436e",
+  "extract_method": "ocr",
+  "content_hash": "c39b1183e032ca327a9f222da9b8d5b3f242557e32e4a96a45c38b36059a2497",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "d23bf17e1613909b64003e8f",
+  "paper_key": "bj-2021-一模-房山-政治",
+  "paper_title": "2021年北京房山区高三一模政治试卷",
+  "subject": "政治",
+  "region": "北京",
+  "district": "房山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 12,
+  "stem": "手机“碰一碰”就能买菜、吃饭，还能“离线支付”，隐私消费可以匿名支付·…···数 字人民币时代已悄然来临。在北京冬奥会开幕倒计时一周年之际，北京市启动“数字 王府井冰雪购物节”数字人民币试点活动。此次活动面向在京个人消费者，发放5 万个数字人民币红包，每个数字人民币红包金额为200元。数字人民币的使用 ①使货币发展进入新阶段，改变人民币属性和功能 ②可使结算更加方便，有利于促进交易效率提高 ③将会加快货币的流通速度，推动当地物价上涨 ④能降低纸币发行流通成本，节约人力物力资源 WW",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50651.html",
+  "license": "unknown",
+  "paper_sha256": "e4e15fc8ba013a2497e25d754fd20aad36d49370c2391a0bf1f97c9b3e69436e",
+  "extract_method": "ocr",
+  "content_hash": "099e4a4f41919df1bc480e62dbdabab3108e0bfc9e81a6ee162a5fd0ef5cc858",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "92aff81c90ca10b0fe19cdd3",
+  "paper_key": "bj-2021-一模-房山-政治",
+  "paper_title": "2021年北京房山区高三一模政治试卷",
+  "subject": "政治",
+  "region": "北京",
+  "district": "房山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 15,
+  "stem": "在美国总统竞选中，民主党与共和党彼此炮轰：从医疗政策、各自身世、内政外交， 到经济手段、社会问题等，涉及方方面面。下列对此理解正确的是 ①国会是美国政治中心，两党争夺选票就是为了得到国会的支持 ②美国两党互相炮轰为了获得更多的选票，维护本集团的利益 ③美国两党虽互相炮轰，但本质上还是为了维护资产阶级利益 4美国两党所代表的阶级利益有根本的差异，所以会互相攻击",
+  "options": [
+   {
+    "key": "A",
+    "text": "①②"
+   },
+   {
+    "key": "B",
+    "text": "①④"
+   },
+   {
+    "key": "C",
+    "text": "②③ 高三政治试卷第6页（共10页） 第部分（非选择题共55分） (aoz 的重要元素，是印鉴在中国史册里不可替代的精神存在。 题日，写一篇150字左右的短文。（8分） 要求：观点鲜明，知识运用准确、贴切，论述合乎逻辑，条理清晰。 材料VW “老黄牛 争秋“天于家” 切“勒冬员” 微“荒牛 好“婵关是》 秋“魏子牛” 敬坐奉献，岭冷兵文 心系人民，实子 双茅刷蓟。致为人多 K.com 遍历艰辛何所惧， 背阔身强察性温， 两角弯弯有威风， 生来倔不低头。 伴我童年情意真。 双日圆睁似铜铃： 躬耕可教青山翠， 至今常忆子牛， 考存 低头敢顶狮和虎， 任劳任怨老黄牛 无私奉献默无闻。 OZX 拓荒创新留美名。 （2）结合材料，运用《文化生活》相关知识，请你谈谈新时代新征程应如何弘扬“三 牛精神”、续写时代华章。（9分） 高三政治试卷第7页（共10页） 仕 材料一 kaozx.com 京高考 其他行业IG家I 电子商务16家17% 大数据家36 物流4家1% ！家 社交媒体1家 人工餐能13家14% 47家 传媒和娱乐5家66 软件服务5家5% 百家 4家 共享经济9家10% 金融科技5家6% 北京上海深圳杭州南京广州香港成都 教育科技6家7% 健康科技8家1% 2020年中国独角兽企业城市分布情况 2020年北京独角兽企业行业数量分布情况 w.gka 北京市独角兽产业规模估值走势（亿元） 00008 M 25000 20000 15000 10000 5000 2018年 2019年 2020年 2020年北京市独角兽产业规模估值走势情况 上京高考在线 （1）描述材料一所反映的北京独角兽企业的特点。（3分） 材料二北京市政府围绕科研管理、绩效评价、科技成果权益等方面不断进行制度突 破，在北京的精准扶持下，特别是加大了对科技型小微企业研发费用补贴和贷款贴息支持 的力度，以解决科技创新中的一些深层次问题，激发各类创新主体的积极性和创造力。 北京市通过简政放权、放管结合、优化服务改革，北京的营商环境显著提升。在国家 发改委组织的对中国主要城市营商环境评价中，北京已连续两年居全国第一。 北京集聚了全国顶尖高校、科研机构、人才、经费以及尖端科研资源，创新氛围浓厚， 有力地推动了北京独角兽企业的蓬勃发展。 要原因（9分） 《中华人民共和国长江保护法》节选 第七十五条 方面的科学技术研究开发和推广应用。 第七十七条 犯罪行为的，应当将犯罪线索移送具有侦查、调查职权的机关。 第七十八条 应当对下级人民政府生态环境保护和修复目标完成情况等进行考核。 第七十九条 和非法人组织参与和监督长江流域生态环境保护提供便利。 第八十二条 务委员会报告本级人民政府长江流域生态环境保护和修复工作等情况： 保障和监督机制有哪些特点。"
+   },
+   {
+    "key": "D",
+    "text": "③④"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50651.html",
+  "license": "unknown",
+  "paper_sha256": "e4e15fc8ba013a2497e25d754fd20aad36d49370c2391a0bf1f97c9b3e69436e",
+  "extract_method": "ocr",
+  "content_hash": "3fd0c64c055a7b939124759319110f9628076a634890af20d88f582149ea1e06",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "828c3a324b686e537ad93ee8",
+  "paper_key": "bj-2021-一模-房山-政治",
+  "paper_title": "2021年北京房山区高三一模政治试卷",
+  "subject": "政治",
+  "region": "北京",
+  "district": "房山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 19,
+  "stem": "发展新能源产业，降低碳排放是保护地球家园的需要。2019年，我国单位光伏发 电成本相比2010年降低80%，每度电的成本已经接近国内火电上网的平均价格（如图）， 平价（市场价）上网在部分地区已经成为现实。2020年光伏类上市公司表现强劲，是我 国资本市场表现最好的行业之一，第三季度光伏行业收入、利润分别同比增长47.25%和 kao 价格/成本（元/kw小） 全球光伏新增装机量（GW） WW 市场驱动阶段 政策驱动阶段 光伏发电成本（元/kwh） 国内平价电价（元KW力） WW 场驱动”变化的理解。 高三政治试卷第9页（共10页）",
+  "options": [],
+  "answer": "",
+  "explanation": "（8 分） 可以从市场决定作用、宏观调控、成本、利润、竞争力、优化产业结构、绿色理念、经济高质量发展等角度作 答。 等级水平 等 级 描 述 水平4 6-8 观点鲜明，能明确表达自己的见解；紧扣问题，准确运用相关知识，全面展开论述；逻辑严 密，条理清晰 水平3 3-5 观点比较明确，能表达自己的见解；能扣住问题展开论述，知识运用比较准确； 逻辑性较强，有条理 评分细则： 逻辑性侧重是什么和为什么： 一、是什么（3 分）：即这一产业政策调整的本质 由政府宏观调控到充分发挥市场决定作用，社会主义市场经济体制内在要求 二、为什么（2+3 分）：即这一产业政策调整的原因 依据2 分：成本、利润、数量、竞争力等 意义3 分：优化产业结构、绿色理念、经济高质量发展、节能减排等 参考示例答案： 我国的社会主义市场经济体制要求既要充分发挥市场在资源配置中的决定性作用,又要更好地发挥政府科学的 宏观调控的作用。我国新能源产业在2010 年-2019 年阶段, 正处于成长期，光伏发电成本较高，产业利润较 低，需要国家财政扶持，才能实现产业结构优化，节能减排和经济的可持续发展，因此，主要是实施“宏观调 控，政策扶持为主”的产业政策。2019 年至今，我国新能源产业处于成熟期，我国光伏类企业市场竞争力强 劲，光伏发电成本下降至平价，产业利润较高，在同行竞争中处于优势，所以，产业政策逐渐过渡到“市场调 节，市场驱动为主”。这一变化充分体现了社会主义市场经济体制的内在优势，有利于集中力量办大事，促进 经济高质量发展。",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50651.html",
+  "license": "unknown",
+  "paper_sha256": "e4e15fc8ba013a2497e25d754fd20aad36d49370c2391a0bf1f97c9b3e69436e",
+  "extract_method": "ocr",
+  "content_hash": "d658f624987c48e54f78d7cf83686730d95ab12e74f44ebc6f592a903bf2f241",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "f3e96c9b836f2ea252b99d01",
+  "paper_key": "bj-2021-一模-房山-政治",
+  "paper_title": "2021年北京房山区高三一模政治试卷",
+  "subject": "政治",
+  "region": "北京",
+  "district": "房山区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 20,
+  "stem": "奇迹，有密码。 2021年2月25日，习近平总书记庄严宣告，我国脱贫攻坚战取得了全面胜利，这是 kao 了其中6个字母) WWW 第一书记 激发内生动力 就业扶贫 2015年4月，中 中国注重把人 就业是民生之 国开始选派优秀 民群众对美好 本，也是脱贫之 的干部到建档立 生活的向往转 根。2012年以 卡贫困村任第一 化成脱贫攻坚 来，多部门通力 书记，对推动精准 的强大动能，激 合作，帮助贫困 扶贫发挥了重要 发群众脱贫攻 劳动力增加就 作用。300多万名 坚热情，引导贫 业、增加收入、 第一书记和驻村 困群众依靠勤 脱贫致富，实现 劳双手和顽强 干部投入，实现了 了“输血式”扶 意志摆脱贫困、 对建档立卡贫困 贫到“造血式” 改变命运。 村全覆盖。 扶贫的转变。 定点扶贫 产业扶贫 一个也不能少 中国有308家中 因地制宜发 扶贫路上，一个 央单位定点扶 展特色产业 也不能少！这是 是实现贫困 贫592个国家重 中国共产党和中 人口稳定脱 点县。地方各级 国政府对全体中 党政机关、国有 贫的主要途 国人民的承诺。 企事业单位都 径和长久之 承担了帮扶贫 策。2019年， 困县和贫困村 全国脱贫户 高考在线 中享受产业 的任务。全军部 kaozx.co 扶贫支持的 队共定点帮扶 4100个贫困村。 占 72.3% 任选两个字母，结合材料，运用《生活与哲学》和《政治生活》的相关知识，解析字 母所代表的我国脱贫攻坚战取得全面胜利的密码。 高三政治试卷第10页（共10页）",
+  "options": [],
+  "answer": "",
+  "explanation": "（10 分） 示例：选择F、P。 ①坚持党的领导，为脱贫攻坚提供坚强政治和组织保证。 ②联系具有普遍性，坚持联系的观点看问题，根据固有联系建立新的的具体联系。坚持发挥社会主义制度集中 力量办大事的政治优势，形成脱贫攻坚的共同意志、共同行动。 ③坚持以人民为中心的发展思想，坚定不移走共同富裕道路。 水平2 1-2 观点不明确；论述不能集中指向问题，罗列知识；知识运用不正确； 论述缺乏逻辑，条理性差 水平1 0 应答与试题无关；或重复试题内容；或没有应答",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202104/50651.html",
+  "license": "unknown",
+  "paper_sha256": "e4e15fc8ba013a2497e25d754fd20aad36d49370c2391a0bf1f97c9b3e69436e",
+  "extract_method": "ocr",
+  "content_hash": "6d8193a05eaff04526cf0b4d68a3d7d8fab5acf7f429c4a80a6622ce592cc57a",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
  },
  {
   "id": "260d3bd0db5d5003a70679a4",
@@ -52876,6 +56023,662 @@
   "answer_verified": false,
   "needs_image": false,
   "quality": "text"
+ },
+ {
+  "id": "358da2aa177fa2e4ac4e290a",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 2,
+  "stem": "试题所有答案必须书写在答题卡上，在试卷上作答无效 知 第I卷（选择题共40分) 一、选择题共10题，每题4分，共40分。 在每题列出的四个选项中，选出符合题目要求的一项 1.已知集合A={x|x>-1}，集合B={x|x（x+2)<0}，那么AUB等于",
+  "options": [
+   {
+    "key": "A",
+    "text": "{x|x>-2}"
+   },
+   {
+    "key": "B",
+    "text": "{x|-1<x<0}"
+   },
+   {
+    "key": "C",
+    "text": "{x|x>-1} 2.下列函数中，既是偶函数又在区间（0，+）上单调递增的是"
+   },
+   {
+    "key": "D",
+    "text": "{x|-1<x<2}"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "f284ac4bcbe52547e0eef81cfffae19654000d25e83258780c15fb65098ae9cc",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "8c867093d910328f7ee33161",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "选择题",
+  "q_no": 3,
+  "stem": "如果b<a<0，那么下列不等式成立的是 B",
+  "options": [
+   {
+    "key": "A",
+    "text": "log2|b<log2|a|"
+   },
+   {
+    "key": "C",
+    "text": "b3>a3"
+   },
+   {
+    "key": "D",
+    "text": "ab<b²"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "6886dea679aae50abf0a870d9289a30c6f98009c463c1546f2773c1db55e8671",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "2e2d9cafd27745fd28ef179a",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "选择题",
+  "q_no": 4,
+  "stem": "双曲线 -y²=1（m>0)的一条渐近线方程为x+2y=0，那么它的离心率为 m V6",
+  "options": [
+   {
+    "key": "A",
+    "text": "√3"
+   },
+   {
+    "key": "B",
+    "text": "√5"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "7b8e7b388f00998b29d5c8506a9038bc0c294de0e5f5a3607fe318cafafb49f6",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "d26819934ae2426a90770f7c",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 5,
+  "stem": "设直线I过点A（0,-1)，且与圆C:x²+y²-2y=0相切于点B，那么AB·AC=",
+  "options": [
+   {
+    "key": "A",
+    "text": "±3"
+   },
+   {
+    "key": "B",
+    "text": "3"
+   },
+   {
+    "key": "C",
+    "text": "√3"
+   },
+   {
+    "key": "D",
+    "text": "1 g(x)在区间[0,a]上单调递减，那么实数α的最大值为 π π 元一"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "e4ddbb5b874bf051b8d56c928fe7c91c9a0f2c9ff93d63be39b5035c7dea24f9",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "9c2881ceb2587c40b07d5cb1",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 7,
+  "stem": "设点A,B,C不共线，则“（AB+AC)⊥BC”是“|AB=AC|”的",
+  "options": [
+   {
+    "key": "A",
+    "text": "充分不必要条件"
+   },
+   {
+    "key": "B",
+    "text": "必要不充分条件"
+   },
+   {
+    "key": "C",
+    "text": "充分必要条件"
+   },
+   {
+    "key": "D",
+    "text": "既不充分又不必要条件"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "fc7d3bd4bf3a46990db04521ff15c125a2219c7c543b3a1f3ba64285346fcfbe",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "1b0d79a2260b28c7501391ae",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "单项选择题",
+  "q_no": 8,
+  "stem": "有一改形塔几何体由若干个正方体构成，构成方式如图所示， 上层正方体下底面的四个顶点是下层正方体上底面各边 的中点。已知最底层正方体的棱长为8，如果改形塔的最上层正方体 的边长小于1，那么该塔形中正方体的个数至少是",
+  "options": [
+   {
+    "key": "A",
+    "text": "8"
+   },
+   {
+    "key": "B",
+    "text": "7"
+   },
+   {
+    "key": "C",
+    "text": "6"
+   },
+   {
+    "key": "D",
+    "text": "4"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "7386d6045692e275edcd7a42b1fb1a56356e5a356f519eaf4070b81889adc38a",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "e9731d590328eb15e8524217",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "选择题",
+  "q_no": 9,
+  "stem": "某三棱锥的三视图如图所示，那么该三棱锥的表面中 直角三角形的个数为",
+  "options": [
+   {
+    "key": "A",
+    "text": "1"
+   },
+   {
+    "key": "C",
+    "text": "— 正（主）视图 侧（左）视图"
+   },
+   {
+    "key": "D",
+    "text": "0 俯视图"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "09f36b1751a3c1fcf805457b30dc913a60faae283b33121017cb92c9864cf0cd",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "aa07b398fbbd4e9a3a5f5b71",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "选择题",
+  "q_no": 10,
+  "stem": "在声学中，声强级L（单位：dB）由公式L=10lg( 给出，其中I为声强（单位： 10-12) W/m²）。若L=60dB，L2=75dB，那么 I2",
+  "options": [
+   {
+    "key": "A",
+    "text": "105"
+   },
+   {
+    "key": "B",
+    "text": "103"
+   },
+   {
+    "key": "D",
+    "text": "102 第二部分（非选择题共110分） 二、填空题共5题，每题5分，共25分。"
+   }
+  ],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "d0aa8c2967469155ec1ac5f6f78a0c2ecf992f21cd4f0ac089d91e4dfc304aad",
+  "section": "选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "921d4432fdecc971c005f3d3",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 11,
+  "stem": "如果复数z满足i·z=1+i，那么|z= (i为虚数单位). π",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "76a99ac4ad16a9cdf7e59955f1040cc23d240825bd087ddebca1ac63d3aa7e0e",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "a088357766a8c6eca8296f1e",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 12,
+  "stem": "已知sin（+α) 那么tana·sinα=",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "04737d75704ac96c53caed6b1bcd5413b6f41614d3ceab241b90a017dd28f46e",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "4e5df01dd189f3bf3ac47a0f",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 13,
+  "stem": "设常数a∈R，如果（x²+-)的二项展开式中×项的系数为-80，那么α= x",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "3b89d8fa6048b3100b5a6f6487dad488cbd3b65bb0a6352277e7feb2fe79f913",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "f2b00b7df3a6112db7a0773a",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 14,
+  "stem": "如果抛物线y²=2px上一点A(4,m)到准线的距离是6，那么m=",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "5cb606f6a15a4b4126995357a7644811a091708e480ddc31248bbafd5a78bfcb",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "831e82c67f86186309d4a7d4",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 15,
+  "stem": "某公园划船收费标准如下： 船型 两人船 四人船 六人船 （限乘2人） （限乘4人） （限乘6人） 每船租金 （元／小时） 某班16名同学一起去该公园划船，若每人划船的时间均为1小时，每只租船必须坐满，租船最 低总费用为 元，租船的总费用共有 种可能. 三、解答题共6题，共85分。解答应写出文字说明，演算步骤或证明过程。",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "0f79482039965d1c5cf8e7cc5f2061ae6de101a8c15c5e664abe36796c351c0d",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "8793a1d39aab4cf2d1c8143f",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 16,
+  "stem": "（本小题14分） 在△ABC中，LB=，b=√7， 求BC边上的高. ②sinA=3sinC，③a-c=2这三个条件中任选一个，补充在上面问 题中并作答. 注：如果选择多个条件分别解答，按第一个解答计分。",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "ee6e1d56c496eac22b8aa6ca9904b33723f3fe197f70f78ebd7b7115e1b4d57e",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "19d081a39c328877639fbf6f",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 17,
+  "stem": "（本小题14分） 为了解本学期学生参加公益劳动的情况，某校从初高中学生中抽取100名学生，收集了他们参 加公益劳动时间（单位：小时）的数据，绘制图表的一部分如下. 时间 数 [5,10) [10,15) [15,20) [20,25] [25,30] [0,5] 学生 类别 男 性别 女 初中 x 学段 高中 （I）从男生中随机抽取一人，抽到的男生参加公益劳动时间在[10,20）的概率： （ⅡI）从参加公益劳动时间[25,30）的学生中抽取3人进行面谈，记X为抽到高中的人数，求 X的分布列； （IⅢI）当x=5时，高中生和初中生相比，那学段学生平均参加公益劳动时间较长.（直接写出 结果)",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "4dec76e8eaf2f2fd468a9d689b78ded49fd3ada38094f831c9e4e63a03d4c683",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "d4e44f1bb3e9ac4987bb3ef5",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 18,
+  "stem": "（本小题14分） 如图，在三棱柱ADF-BCE中，平面ABCD⊥平面ABEF，侧面ABCD为平行四边形，侧 面ABEF为正方形，AC⊥AB，AC=2AB=4，M为FD的中点。 （I）求证：FB//平面ACM； （IⅡI）求二面角M-AC-F的大小. C",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "50c076dfa9cfa4e4de5f45cda7a3295688f2600347603e7ac082a7dd347fb25f",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
+ },
+ {
+  "id": "aecbd9f6553d9e3a58f7052e",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 19,
+  "stem": "（本小题15分） e* （I）当a=0时，求f(x)在(1,f(1))的切线方程； （ⅡI）求证：f(x)的极大值恒大于0.",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "87840a0edb1ae78154c91c02c1937acfefecabf86fef7e42293790298cbb9896",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": false,
+  "quality": "ocr"
+ },
+ {
+  "id": "cab0363de79f39c655b94bbd",
+  "paper_key": "bj-2021-一模-平谷-数学",
+  "paper_title": "2021年北京平谷区高三一模数学试卷",
+  "subject": "数学",
+  "region": "北京",
+  "district": "平谷区",
+  "exam_era": "new",
+  "year": 2021,
+  "month": 4,
+  "exam_type": "一模",
+  "type": "非选择题",
+  "q_no": 21,
+  "stem": "（本小题14分） 记无穷数列{a}的前n项中最大值为M，最小值为mn，令b= “极差数列” （I）若a=3n-2，求{b}的前n项和； （ⅡⅡ）证明：{b}的“极差数列”仍是{b}； （III）求证：若数列b}是等差数列，则数列{a}也是等差数列. （考生务必将答案答在答题卡上，在试卷上作答无效） 平谷区2019-2020学年度第二学期质量监控 高三数学（理）试卷参考答案 一.选择题（共10题，每题4分，共40分） 题号 答案 A C D D B B C A C D 二.填空题（共5题，每题5分，共25分） 11.√2；12.- 14.±4√2；15.360，10。 13.-2; 注：第14题第一空3分，第二空2分； 三、解答题（共6题，共85分） 16.（本小题满分14分） 解1：选择① b 在△ABC中，由正弦定理得 2分 sinB sinA a 所以 I，a=2. 5分 由余弦定理b²=a²+c²-2accosB， 7分 得√²=2²+c²-2x2xcx c²-2c-3=0，解得c=3 10分 #_3√3 BC边上的高h=c·sinB=3x 3√3 BC边上的高为 14分 解2：选择② .2分 sinA sinc D 又因为sinA=3sinC，所以 3sinC sinc 所以a=3c， 5分 由余弦定理b²=a²+c²-2accosB， 7分 得√²=(3c)²+c²-2x3cxcx 7c²=7，解得c=1. 10分 √3 √3 BC边上的高h=c·sinB=1x √3 BC边上的高为 14分 解3：选择③ 在△ABC中，由a-c=2，得a=c+2， .2分 由余弦定理b²=a²+c²-2accosB， 4分 得√²=(c+2)²+c²-2×(c+2)xcx 化简c²+2c-3=0，解得c=1. 10分 √3 √3 BC边上的高h=c·sinB=1x √# BC边上的高为 14分 17.(本小题满分14分）。 解：（I）100名学生中共有男生48名， 1分 其中共有20人参加公益劳动时间在[10,20）， 2分 设男生中随机抽取一人，抽到的男生参加公益劳动时间在[10,20）的事件为A， ..3分 ..4分 那么P(A)： （II）X的所有可能取值为0，1，2，3. 5分 所以P(X=0)= .6分 C§C2 P(X =1) = 7分 P(X=2)= .8分 P(X=3)= 9分 所以随机变量X的分布列如下： X P 10分 （IⅢI）初中生平均参加公益劳动时间较长。 14分 18.（本小题满分14分） （I）连接BD，与AC相交于O，连接MO. 1分 ABCD是平行四边形， O是BD的中点 又M是FD的中点 :.MO//FB. 3分 又FB平面ACM，MOc平面ACM， :FB/平面ACM. 4分 （II）平面ABCD⊥平面ABEF，平面ABCD∩平面ABEF=AB，AC⊥AB，ACc 平面ABCD， :AC⊥平面ABEF，AC⊥AF， 又：ABEF为正方形， AF⊥AB，如图，建立空间直角坐标系A-xyz， .6分 则有 A(0,0,0)，C(4,0,0),B(0,2,0)，D(4,-2,0)，F(0,0,2), 则M(2,-1,1)， 8分 B 设平面ACM的一个法向量为n=(x,y,z)， n·AC =0, 4x=0, 即 因为AC=(4,0,0)，AM=(2,-1,1)，所以 2x-y+z=0. n·AM=0, 设y=1，则z=1，n=(0,1,1). 10分 因为AB⊥平面ACF 平面ACF的一个法向量为AB=(0,1,0)， 11分 AB·n 故cos(AB,n) 13分 AB 由图知，二面角M－AC-F的平面角为锐角， π 所以二面角M-AC-F的大小为 14分 19.（本小题满分15分） (x²+ax-a) 解：（I）由f(x)= e-x (ex)2 e -[x²+（a-2)x-2a] 3分 -（x+a)（x-2) e- 当a=0时，f(1)=-， f'(1)= .5分 e e 则f(x)在(l,f(1))的切线方程为：y-- -（x-1) e e 化简得：y=-x. .7分 e （II）令f（x)=0，得x=2，或x=-a 8分 ① 当a=-2时，f'(x)≤0恒成立，此时函数f(x)在(-∞,+∞)上单调递减， 所以，函数f(x)无极值. .9分 当a>-2时，f'(x)，f(x)的变化情况如下表： (-0,-a) x p- (-a,2) (2,+0) f'(x) + f(x) 极小值 极大值 11分 4+a f(x)的极大值为f(2)= >0. .12分 ③当a<-2时，f(x)，f(x)的变化情况如下表： x (-00,2) (2,-a) p- (-a,+oo) f'(x) + f(x) 极小值 极大值 14分 >0， 14分 f(x)的极大值为f(-a)=- 综上，f（x)的极大值恒大于0。 15分 20．（本小题满分14分） 解：（I）因为，|PF|+|PF2|=4，由椭圆的定义得：2a=4，a=2，… .2分 点M(√2,1)在椭圆C上，代入椭圆方程中，解得b²=2， 椭圆C的方程为 .4分 √2 （ⅡI）证明：设A（x,y),Bx2,y2），直线AB的斜率为 ，设直线l的方程为y= -x+t, .5分 √2 与椭圆方程联立得x²+2（- x+t)²-4=0，整理得：2x²+2√2tx+2t²-4=0 所以x+x2=-√2t，x·x2=t²-2. .7分 x-√2 √2 (x-√2)，令y=0，则xD=- x-√2 y-1 9分 x-√2 +√2 . 同理x= .10分 y2-1 x2- V--V2 2+√22√2-（√ |OD+OE--V2 y-1 y2-1 y-1 y2-1 √2 V2 (x-√2)( x+t-1)+(x-√2）(² x+t-1) =|2√2-(- ) (y-1)(y2-1) 12分 (y-1)(y-1) 代入整理得：|OD+OE｜=2√2 所以|OD+OE|为定值. 14分 21.（本小题满分14分） 3n-2-1 （n-1)，.分 解：（I）因为{a}为递增数列，所以b 3n(n-1) {b}的前n项和S .4分 （II）因为max{a，a,··,a}≤max{a，a,·…,an+1}（n=1,2,3,·)， ..6分 min{a,a,..,a}≥min{a,a2,...,an+1}(n=1,2,3,...), 所以max{a，a2..,an+1}-min{a，,a2..,an+1}≥max{a，a2..,a}-min{a,a,.,a} 8分 所以bn+1≥bn（n=1,2,3,.·.). 又因为b=a-a=0， 所以max{b，b2,·..,bn}-min{b，b2,..,bn}=b-b=bn， 所以{b}的“极差数列”仍是{b} 10分 （II）当数列{b}是等差数列时，设其公差为d* M. M-M M,-m -mn-1 m-mn-1 d 因为b,-bn-1= 根据M，m的定义，有以下结论： M,≥Mm-，m,≤m-1，且两个不等式中至少有一个取等号 ..11分 当d*>0时，则必有M>Mn-1，所以an=M,>Mn-1≥an-1 所以{α,}是一个单调递增数列，所以M，=an，m，=α， 'p-\"p an-an-1=d* 所以b-b-1 所以α，-αn-1=2d*，即{a}为等差数列. 12分 当d*<0时，则必有m,<mn-1，所以an=m,<mn-1≤an-1 所以{a}是一个单调递减数列，所以M，=α，m，=αn， “p-p I-u- 所以b-bn-1 所以an-an-=-2d*，即{a}为等差数列. 13分 M,-M M-mn_Mn--mn-1 m-mn-1=0 当d*=0时，b-bn_ 因为M，-Mm-1，m，-mm-1中必有一个为0, 根据上式，一个为0，则另一个亦为0， 所以M,=Mn-1,m,=mn-1，所以{an}为常数数列，所以{a}为等差数列 综上，结论得证. .14分",
+  "options": [],
+  "answer": "",
+  "explanation": "",
+  "material": "",
+  "score": 0.0,
+  "source": "gaokzx",
+  "source_url": "https://www.gaokzx.com/c/202103/50178.html",
+  "license": "unknown",
+  "paper_sha256": "597916520dbb035d94404833bf13b81b9b753f711590d6d9c9af435af28fa5d9",
+  "extract_method": "ocr",
+  "content_hash": "0ce2eba205760ae6f70081c75bf311a4dc75260956150a6efe3c73b733721cc6",
+  "section": "非选择题",
+  "answer_verified": false,
+  "needs_image": true,
+  "quality": "ocr"
  },
  {
   "id": "c304c79afc0ac01e12fa59ed",
