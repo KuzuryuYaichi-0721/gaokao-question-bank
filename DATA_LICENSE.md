@@ -1,9 +1,10 @@
 # Data License and Redistribution Boundary
 
-This repository uses two licenses:
+The repository separates code and datasets by license.
 
 - **Code** (`bank/`, scripts, schema, tests): MIT, see `LICENSE`.
 - **Open dataset** (`data/open/`): Apache License 2.0, see `LICENSE-APACHE-2.0`.
+- **Beijing batch OCR dataset**: CC BY 4.0 as declared by the upstream compilation. See the [dataset README](data/beijing-2021-2026-ocr-988/README.md) for provenance and attribution.
 
 ## Open dataset
 
